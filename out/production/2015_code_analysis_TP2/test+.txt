@@ -1,1319 +1,672 @@
-2001-07-12	OK 
+2011-05-23	OK 
 
 PRESCRIPTION 1
-Medicament8	52	35	COMMANDE
-Medicament50	32	35	COMMANDE
-Medicament28	14	35	COMMANDE
-Medicament34	7	35	COMMANDE
-Medicament11	6	35	COMMANDE
-Medicament26	40	35	COMMANDE
-Medicament57	17	35	COMMANDE
-Medicament30	63	35	COMMANDE
-Medicament59	88	35	COMMANDE
+Medicament46	33	8	COMMANDE
+Medicament21	53	8	COMMANDE
+Medicament48	14	8	COMMANDE
+Medicament37	79	8	COMMANDE
+Medicament53	97	8	COMMANDE
+Medicament1	86	8	COMMANDE
+Medicament11	97	8	COMMANDE
+Medicament6	35	8	COMMANDE
+Medicament42	30	8	COMMANDE
 
 PRESCRIPTION 2
-Medicament23	4	20	COMMANDE
-Medicament42	56	20	COMMANDE
-Medicament29	53	20	COMMANDE
-Medicament29	82	20	COMMANDE
-Medicament20	33	20	COMMANDE
-Medicament4	94	20	COMMANDE
-Medicament38	69	20	COMMANDE
-Medicament11	38	20	COMMANDE
-Medicament34	72	20	COMMANDE
-Medicament46	18	20	COMMANDE
-Medicament27	67	20	COMMANDE
-Medicament58	2	20	COMMANDE
-Medicament6	5	20	COMMANDE
-Medicament41	84	20	COMMANDE
-Medicament8	73	20	COMMANDE
-Medicament60	15	20	COMMANDE
-Medicament25	61	20	COMMANDE
-Medicament14	56	20	COMMANDE
-Medicament20	5	20	COMMANDE
-Medicament17	51	20	COMMANDE
-Medicament32	13	20	COMMANDE
-Medicament1	94	20	COMMANDE
-Medicament28	100	20	COMMANDE
-Medicament49	50	20	COMMANDE
-Medicament41	16	20	COMMANDE
-Medicament21	83	20	COMMANDE
-Medicament56	47	20	COMMANDE
-Medicament10	39	20	COMMANDE
-Medicament47	84	20	COMMANDE
-Medicament13	3	20	OK
-Medicament20	66	20	COMMANDE
-Medicament26	54	20	COMMANDE
-Medicament1	77	20	COMMANDE
-Medicament37	3	20	COMMANDE
-Medicament32	35	20	COMMANDE
-Medicament52	46	20	COMMANDE
-Medicament15	79	20	COMMANDE
-Medicament9	82	20	COMMANDE
-Medicament53	82	20	COMMANDE
-Medicament12	90	20	COMMANDE
-Medicament7	74	20	COMMANDE
-Medicament48	98	20	COMMANDE
-Medicament1	20	20	COMMANDE
-Medicament26	41	20	COMMANDE
-Medicament32	37	20	COMMANDE
-Medicament2	65	20	COMMANDE
-Medicament50	41	20	COMMANDE
-Medicament18	68	20	COMMANDE
-Medicament34	73	20	COMMANDE
-Medicament47	2	20	COMMANDE
-Medicament34	72	20	COMMANDE
-Medicament14	12	20	COMMANDE
-Medicament20	61	20	COMMANDE
-Medicament53	75	20	COMMANDE
-Medicament4	7	20	COMMANDE
-Medicament58	41	20	COMMANDE
-Medicament36	33	20	COMMANDE
-Medicament48	42	20	COMMANDE
-Medicament37	41	20	COMMANDE
-Medicament15	11	20	COMMANDE
-Medicament10	84	20	COMMANDE
-Medicament21	35	20	COMMANDE
-Medicament36	70	20	COMMANDE
-Medicament28	66	20	COMMANDE
-Medicament37	80	20	COMMANDE
-Medicament30	41	20	COMMANDE
-Medicament38	2	20	COMMANDE
-Medicament44	64	20	COMMANDE
-Medicament31	75	20	COMMANDE
-Medicament28	78	20	COMMANDE
-Medicament54	39	20	COMMANDE
-Medicament17	64	20	COMMANDE
+Medicament40	51	43	COMMANDE
+Medicament34	48	43	COMMANDE
+Medicament59	70	43	COMMANDE
+Medicament36	24	43	COMMANDE
+Medicament5	10	43	COMMANDE
+Medicament5	18	43	COMMANDE
+Medicament8	58	43	COMMANDE
+Medicament53	11	43	COMMANDE
+Medicament23	90	43	COMMANDE
+Medicament53	29	43	COMMANDE
+Medicament41	64	43	COMMANDE
+Medicament20	22	43	COMMANDE
+Medicament21	55	43	COMMANDE
+Medicament42	41	43	COMMANDE
+Medicament32	11	43	COMMANDE
+Medicament45	39	43	COMMANDE
+Medicament40	16	43	COMMANDE
+Medicament18	100	43	COMMANDE
+Medicament49	51	43	COMMANDE
+Medicament5	84	43	COMMANDE
+Medicament22	19	43	COMMANDE
+Medicament32	45	43	COMMANDE
+Medicament11	6	43	COMMANDE
+Medicament38	89	43	COMMANDE
+Medicament59	43	43	COMMANDE
+Medicament55	42	43	COMMANDE
+Medicament5	40	43	COMMANDE
+Medicament36	42	43	COMMANDE
+Medicament28	40	43	COMMANDE
+Medicament31	2	43	COMMANDE
+Medicament12	78	43	COMMANDE
+Medicament29	75	43	COMMANDE
+Medicament15	74	43	COMMANDE
+Medicament44	35	43	COMMANDE
+Medicament53	74	43	COMMANDE
+Medicament54	74	43	COMMANDE
+Medicament44	18	43	COMMANDE
+Medicament55	65	43	COMMANDE
+Medicament25	77	43	COMMANDE
+Medicament57	73	43	COMMANDE
+Medicament60	27	43	COMMANDE
+Medicament22	25	43	COMMANDE
+Medicament50	71	43	COMMANDE
+Medicament40	8	43	COMMANDE
+Medicament42	62	43	COMMANDE
+Medicament9	2	43	COMMANDE
+Medicament13	31	43	COMMANDE
+Medicament12	98	43	COMMANDE
+Medicament19	22	43	COMMANDE
+Medicament8	94	43	COMMANDE
+Medicament36	60	43	COMMANDE
+Medicament52	33	43	COMMANDE
+Medicament31	100	43	COMMANDE
+Medicament37	33	43	COMMANDE
+Medicament30	32	43	COMMANDE
+Medicament1	44	43	COMMANDE
+Medicament31	80	43	COMMANDE
+Medicament13	36	43	COMMANDE
+Medicament60	80	43	COMMANDE
+Medicament22	20	43	COMMANDE
+Medicament43	69	43	COMMANDE
+Medicament44	15	43	COMMANDE
+
+STOCK 2011-05-23
+Medicament1	65	2012-08-04
+Medicament10	53	2013-09-20
+Medicament10	46	2015-10-21
+Medicament10	3	2018-09-29
+Medicament10	33	2019-05-05
+Medicament10	38	2021-01-12
+Medicament10	17	2022-07-27
+Medicament10	16	2025-11-27
+Medicament11	39	2025-12-16
+Medicament12	36	2015-07-21
+Medicament12	14	2021-06-07
+Medicament13	54	2011-12-30
+Medicament13	7	2025-12-12
+Medicament14	16	2011-06-09
+Medicament16	38	2021-11-14
+Medicament16	36	2022-10-23
+Medicament18	16	2018-07-11
+Medicament18	6	2025-11-29
+Medicament19	35	2023-10-14
+Medicament2	49	2024-07-24
+Medicament2	35	2025-12-22
+Medicament20	36	2014-09-08
+Medicament21	44	2025-01-15
+Medicament22	27	2012-01-02
+Medicament22	6	2025-03-28
+Medicament25	34	2013-05-02
+Medicament25	63	2017-12-06
+Medicament25	40	2021-10-01
+Medicament25	61	2022-01-10
+Medicament26	2	2014-11-08
+Medicament27	48	2021-04-30
+Medicament28	3	2012-05-04
+Medicament28	17	2015-11-19
+Medicament28	69	2021-07-11
+Medicament29	10	2024-09-11
+Medicament30	32	2016-04-06
+Medicament30	20	2022-02-13
+Medicament30	55	2025-10-14
+Medicament32	1	2025-12-01
+Medicament33	11	2025-10-14
+Medicament35	38	2021-02-06
+Medicament35	16	2024-11-20
+Medicament35	40	2025-08-19
+Medicament36	58	2014-03-31
+Medicament37	13	2025-12-04
+Medicament38	3	2025-11-23
+Medicament39	62	2014-11-18
+Medicament4	7	2025-08-24
+Medicament40	62	2017-03-15
+Medicament40	26	2025-03-01
+Medicament41	39	2012-11-16
+Medicament42	21	2025-12-21
+Medicament43	34	2019-09-06
+Medicament44	40	2019-10-07
+Medicament45	17	2021-03-31
+Medicament45	23	2025-07-26
+Medicament46	3	2025-11-23
+Medicament48	24	2014-04-21
+Medicament51	6	2025-10-10
+Medicament52	38	2025-11-03
+Medicament53	34	2025-03-07
+Medicament54	50	2012-02-04
+Medicament56	8	2015-05-29
+Medicament56	27	2021-06-15
+Medicament56	38	2023-10-18
+Medicament59	20	2020-02-18
+Medicament6	18	2015-10-12
+Medicament6	28	2018-12-18
+Medicament60	25	2022-01-01
+Medicament7	67	2015-10-01
+Medicament7	46	2021-05-03
+Medicament7	66	2025-11-21
+Medicament8	63	2025-10-15
+Medicament9	11	2025-08-22
+
+2006-05-07	COMMANDES :
+Medicament1	2580
+Medicament11	1034
+Medicament12	7568
+Medicament13	2881
+Medicament15	3182
+Medicament18	4300
+Medicament19	946
+Medicament20	946
+Medicament21	2789
+Medicament22	2752
+Medicament23	3870
+Medicament25	3311
+Medicament28	1720
+Medicament29	3225
+Medicament30	1376
+Medicament31	7826
+Medicament32	2408
+Medicament34	2064
+Medicament36	5418
+Medicament37	2051
+Medicament38	3827
+Medicament40	3225
+Medicament41	2752
+Medicament42	4669
+Medicament43	2967
+Medicament44	2924
+Medicament45	1677
+Medicament46	264
+Medicament48	112
+Medicament49	2193
+Medicament5	6536
+Medicament50	3053
+Medicament52	1419
+Medicament53	5678
+Medicament54	3182
+Medicament55	4601
+Medicament57	3139
+Medicament59	4859
+Medicament6	280
+Medicament60	4601
+Medicament8	6536
+Medicament9	86
 
 APPROV OK
-2025-11-16	COMMANDES :
-Medicament1	3820
-Medicament10	2460
-Medicament11	970
-Medicament12	1800
-Medicament14	1360
-Medicament15	1800
-Medicament17	2300
-Medicament18	1360
-Medicament2	1300
-Medicament20	3300
-Medicament21	2360
-Medicament23	80
-Medicament25	1220
-Medicament26	3300
-Medicament27	1340
-Medicament28	5370
-Medicament29	2700
-Medicament30	3025
-Medicament31	1500
-Medicament32	1700
-Medicament34	4585
-Medicament36	2060
-Medicament37	2480
-Medicament38	1420
-Medicament4	2020
-Medicament41	2000
-Medicament42	1120
-Medicament44	1280
-Medicament46	360
-Medicament47	1720
-Medicament48	2800
-Medicament49	1000
-Medicament50	1940
-Medicament52	920
-Medicament53	3140
-Medicament54	780
-Medicament56	940
-Medicament57	595
-Medicament58	860
-Medicament59	3080
-Medicament6	100
-Medicament60	300
-Medicament7	1480
-Medicament8	3280
-Medicament9	1640
-
-APPROV OK
-STOCK 2023-03-06
-Medicament1	10	2025-12-28
-Medicament10	20	2025-12-29
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	54	2003-03-04
-Medicament20	1	2003-09-10
-Medicament21	4	2025-12-22
-Medicament23	20	2025-12-25
-Medicament24	66	2025-12-18
-Medicament25	14	2020-07-21
-Medicament25	48	2004-05-08
-Medicament25	70	2025-12-23
-Medicament27	40	2015-11-15
-Medicament28	53	2005-09-10
-Medicament30	5	2025-12-26
-Medicament32	53	2011-11-28
-Medicament33	56	2013-05-26
-Medicament33	72	2002-02-11
-Medicament34	18	2020-02-23
-Medicament34	7	2025-12-30
-Medicament36	63	2019-10-06
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament39	4	2025-12-25
-Medicament39	51	2015-10-07
-Medicament4	17	2025-12-20
-Medicament41	24	2009-11-18
-Medicament41	5	2002-11-19
-Medicament42	55	2007-01-01
-Medicament43	0	2025-12-26
-Medicament44	57	2025-12-23
-Medicament45	18	2008-05-06
-Medicament48	20	2015-08-06
-Medicament48	54	2016-07-18
-Medicament5	67	2001-11-03
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament54	68	2018-07-09
-Medicament55	14	2025-12-25
-Medicament59	61	2018-04-17
-Medicament6	11	2016-06-20
-Medicament7	24	2024-02-08
-Medicament8	7	2025-12-29
+STOCK 2004-01-22
+Medicament1	65	2012-08-04
+Medicament10	53	2013-09-20
+Medicament10	46	2015-10-21
+Medicament10	3	2018-09-29
+Medicament10	33	2019-05-05
+Medicament10	38	2021-01-12
+Medicament10	17	2022-07-27
+Medicament10	16	2025-11-27
+Medicament11	39	2025-12-16
+Medicament12	36	2015-07-21
+Medicament12	14	2021-06-07
+Medicament13	19	2000-07-18
+Medicament13	54	2011-12-30
+Medicament13	7	2025-12-12
+Medicament14	16	2011-06-09
+Medicament16	38	2021-11-14
+Medicament16	36	2022-10-23
+Medicament18	16	2018-07-11
+Medicament18	6	2025-11-29
+Medicament19	35	2023-10-14
+Medicament2	18	2012-01-05
+Medicament2	49	2024-07-24
+Medicament2	35	2025-12-22
+Medicament20	36	2014-09-08
+Medicament21	44	2025-01-15
+Medicament22	63	2007-12-16
+Medicament22	27	2012-01-02
+Medicament22	6	2025-03-28
+Medicament25	34	2013-05-02
+Medicament25	63	2017-12-06
+Medicament25	40	2021-10-01
+Medicament25	61	2022-01-10
+Medicament26	2	2014-11-08
+Medicament27	45	2018-12-18
+Medicament27	48	2021-04-30
+Medicament28	3	2012-05-04
+Medicament28	17	2015-11-19
+Medicament28	69	2021-07-11
+Medicament29	70	2023-03-14
+Medicament29	10	2024-09-11
+Medicament30	32	2016-04-06
+Medicament30	20	2022-02-13
+Medicament30	55	2025-10-14
+Medicament32	37	2015-04-29
+Medicament32	1	2025-12-01
+Medicament33	11	2025-10-14
+Medicament34	43	2003-04-25
+Medicament35	13	2006-05-24
+Medicament35	38	2021-02-06
+Medicament35	16	2024-11-20
+Medicament35	40	2025-08-19
+Medicament36	58	2014-03-31
+Medicament37	13	2025-12-04
+Medicament38	18	2020-08-31
+Medicament38	3	2025-11-23
+Medicament39	32	2005-07-29
+Medicament39	62	2014-11-18
+Medicament4	54	2025-02-18
+Medicament4	7	2025-08-24
+Medicament40	47	2000-06-13
+Medicament40	62	2017-03-15
+Medicament40	26	2025-03-01
+Medicament41	39	2012-11-16
+Medicament42	67	2013-09-12
+Medicament42	21	2025-12-21
+Medicament43	34	2006-08-03
+Medicament43	34	2019-09-06
+Medicament44	11	2005-09-30
+Medicament44	40	2019-10-07
+Medicament45	17	2021-03-31
+Medicament45	23	2025-07-26
+Medicament46	3	2025-11-23
+Medicament48	24	2014-04-21
+Medicament51	6	2025-10-10
+Medicament51	38	2025-11-15
+Medicament52	38	2025-11-03
+Medicament53	34	2025-03-07
+Medicament54	50	2012-02-04
+Medicament54	69	2019-07-04
+Medicament56	8	2015-05-29
+Medicament56	27	2021-06-15
+Medicament56	38	2023-10-18
+Medicament57	61	2003-09-13
+Medicament59	20	2020-02-18
+Medicament6	18	2015-10-12
+Medicament6	28	2018-12-18
+Medicament60	64	2009-11-21
+Medicament60	25	2022-01-01
+Medicament7	67	2015-10-01
+Medicament7	46	2021-05-03
+Medicament7	66	2025-11-21
+Medicament8	63	2025-10-15
+Medicament9	11	2025-08-22
 
 PRESCRIPTION 3
-Medicament55	72	20	COMMANDE
-Medicament4	80	20	COMMANDE
-Medicament7	72	20	COMMANDE
-Medicament17	88	20	COMMANDE
-Medicament43	61	20	COMMANDE
-Medicament20	42	20	COMMANDE
-Medicament1	95	20	COMMANDE
-Medicament48	33	20	COMMANDE
-Medicament20	77	20	COMMANDE
-Medicament59	99	20	COMMANDE
-Medicament2	21	20	COMMANDE
-Medicament10	48	20	COMMANDE
-Medicament33	8	20	COMMANDE
-Medicament28	49	20	COMMANDE
-Medicament40	84	20	COMMANDE
-Medicament40	80	20	COMMANDE
-Medicament43	80	20	COMMANDE
-Medicament39	22	20	COMMANDE
-Medicament16	62	20	COMMANDE
-Medicament57	4	20	COMMANDE
-Medicament54	49	20	COMMANDE
-Medicament53	7	20	COMMANDE
-Medicament36	99	20	COMMANDE
-Medicament40	95	20	COMMANDE
-Medicament40	6	20	COMMANDE
-Medicament31	34	20	COMMANDE
-Medicament22	87	20	COMMANDE
-Medicament33	15	20	COMMANDE
-Medicament55	3	20	COMMANDE
-Medicament10	14	20	COMMANDE
-Medicament35	78	20	COMMANDE
-Medicament3	47	20	COMMANDE
-Medicament7	86	20	COMMANDE
-Medicament20	20	20	COMMANDE
-Medicament57	42	20	COMMANDE
-Medicament60	15	20	COMMANDE
-Medicament29	24	20	COMMANDE
-Medicament49	65	20	COMMANDE
-Medicament24	89	20	COMMANDE
-Medicament31	21	20	COMMANDE
-Medicament48	43	20	COMMANDE
-Medicament23	17	20	COMMANDE
-Medicament8	5	20	COMMANDE
-Medicament32	59	20	COMMANDE
-Medicament24	19	20	COMMANDE
-Medicament30	23	20	COMMANDE
-Medicament32	9	20	COMMANDE
-Medicament31	1	20	COMMANDE
-Medicament37	71	20	COMMANDE
-Medicament7	95	20	COMMANDE
-Medicament8	27	20	COMMANDE
-Medicament33	82	20	COMMANDE
-Medicament12	35	20	COMMANDE
-Medicament53	74	20	COMMANDE
-Medicament56	77	20	COMMANDE
-Medicament29	59	20	COMMANDE
-Medicament54	25	20	COMMANDE
-Medicament23	22	20	COMMANDE
-Medicament47	42	20	COMMANDE
-Medicament40	33	20	COMMANDE
-Medicament14	21	20	COMMANDE
-Medicament47	56	20	COMMANDE
-Medicament17	27	20	COMMANDE
-Medicament41	81	20	COMMANDE
-Medicament6	62	20	COMMANDE
-Medicament5	35	20	COMMANDE
-Medicament28	8	20	COMMANDE
-Medicament2	31	20	COMMANDE
-Medicament7	5	20	COMMANDE
-Medicament12	16	20	COMMANDE
-Medicament17	34	20	COMMANDE
-Medicament44	81	20	COMMANDE
-Medicament4	59	20	COMMANDE
-Medicament55	85	20	COMMANDE
-Medicament24	93	20	COMMANDE
-Medicament14	75	20	COMMANDE
+Medicament18	65	4	COMMANDE
+Medicament34	51	4	COMMANDE
+Medicament54	70	4	COMMANDE
+Medicament19	89	4	COMMANDE
+Medicament45	79	4	COMMANDE
+Medicament2	32	4	COMMANDE
+Medicament59	40	4	COMMANDE
 
-STOCK 2020-12-03
-Medicament1	10	2025-12-28
-Medicament10	20	2025-12-29
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament21	4	2025-12-22
-Medicament23	20	2025-12-25
-Medicament24	66	2025-12-18
-Medicament25	70	2025-12-23
-Medicament30	5	2025-12-26
-Medicament34	7	2025-12-30
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament39	4	2025-12-25
-Medicament4	17	2025-12-20
-Medicament43	0	2025-12-26
-Medicament44	57	2025-12-23
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament55	14	2025-12-25
-Medicament7	24	2024-02-08
-Medicament8	7	2025-12-29
-
-APPROV OK
-STOCK 2020-12-03
-Medicament1	10	2025-12-28
-Medicament10	20	2025-12-29
-Medicament10	36	2015-01-01
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament14	51	2010-07-30
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	55	2022-05-19
-Medicament21	4	2025-12-22
-Medicament23	20	2025-12-25
-Medicament24	66	2025-12-18
-Medicament25	70	2025-12-23
-Medicament28	38	2009-04-25
-Medicament29	28	2010-05-25
-Medicament30	5	2025-12-26
-Medicament31	26	2011-04-05
-Medicament34	7	2025-12-30
-Medicament36	40	2018-06-09
-Medicament36	60	2025-06-04
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament39	4	2025-12-25
-Medicament4	17	2025-12-20
-Medicament40	39	2002-08-18
-Medicament43	0	2025-12-26
-Medicament44	57	2025-12-23
-Medicament45	32	2023-12-04
-Medicament47	34	2021-07-05
-Medicament47	55	2017-09-23
-Medicament48	37	2012-08-16
-Medicament52	62	2005-09-15
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament53	42	2010-07-06
-Medicament55	14	2025-12-25
-Medicament56	31	2014-06-22
-Medicament56	56	2001-05-13
-Medicament57	43	2025-05-20
-Medicament59	28	2000-01-21
-Medicament60	42	2019-03-15
-Medicament7	24	2024-02-08
-Medicament8	7	2025-12-29
-Medicament8	71	2020-01-06
+2005-05-28	COMMANDES :
+Medicament18	260
+Medicament19	356
+Medicament2	128
+Medicament34	204
+Medicament45	316
+Medicament54	280
+Medicament59	160
 
 PRESCRIPTION 4
-Medicament11	81	24	COMMANDE
-Medicament1	87	24	COMMANDE
-Medicament32	30	24	COMMANDE
-Medicament59	38	24	COMMANDE
-Medicament3	79	24	COMMANDE
-Medicament59	23	24	COMMANDE
-Medicament4	60	24	COMMANDE
-Medicament51	11	24	COMMANDE
-Medicament58	90	24	COMMANDE
-Medicament2	71	24	COMMANDE
-Medicament53	28	24	COMMANDE
-Medicament51	5	24	COMMANDE
-Medicament38	34	24	COMMANDE
-Medicament36	62	24	COMMANDE
-Medicament50	63	24	COMMANDE
-Medicament10	68	24	COMMANDE
-Medicament24	38	24	COMMANDE
-Medicament59	80	24	COMMANDE
-Medicament30	81	24	COMMANDE
-Medicament21	55	24	COMMANDE
+Medicament56	78	20	COMMANDE
+Medicament46	32	20	COMMANDE
+Medicament20	83	20	COMMANDE
+Medicament27	87	20	COMMANDE
+Medicament47	16	20	COMMANDE
+Medicament18	93	20	COMMANDE
+Medicament7	85	20	COMMANDE
+Medicament36	47	20	COMMANDE
+Medicament49	10	20	COMMANDE
+Medicament49	19	20	COMMANDE
+Medicament1	92	20	COMMANDE
+Medicament33	4	20	COMMANDE
+Medicament48	58	20	COMMANDE
+Medicament16	4	20	COMMANDE
+Medicament33	95	20	COMMANDE
+Medicament3	34	20	COMMANDE
+Medicament36	5	20	COMMANDE
+Medicament11	72	20	COMMANDE
+Medicament45	35	20	COMMANDE
+Medicament49	11	20	COMMANDE
+Medicament28	48	20	COMMANDE
+Medicament41	66	20	COMMANDE
+Medicament31	37	20	COMMANDE
+Medicament33	98	20	COMMANDE
+Medicament55	1	20	COMMANDE
+Medicament34	85	20	COMMANDE
+Medicament21	79	20	COMMANDE
+Medicament41	10	20	COMMANDE
+Medicament44	96	20	COMMANDE
+Medicament15	68	20	COMMANDE
+Medicament39	32	20	COMMANDE
+Medicament19	69	20	COMMANDE
+Medicament48	44	20	COMMANDE
+Medicament17	36	20	COMMANDE
+Medicament24	22	20	COMMANDE
+Medicament44	80	20	COMMANDE
+Medicament56	62	20	COMMANDE
+Medicament33	31	20	COMMANDE
+Medicament5	40	20	COMMANDE
+Medicament56	23	20	COMMANDE
 
-2009-01-01	COMMANDES :
-Medicament1	3988
-Medicament10	2872
-Medicament11	1944
-Medicament12	1020
-Medicament14	1920
-Medicament16	1240
-Medicament17	2980
-Medicament2	2744
-Medicament20	2780
-Medicament21	1320
-Medicament22	1740
-Medicament23	780
-Medicament24	4932
-Medicament28	1140
-Medicament29	1660
-Medicament3	2836
-Medicament30	2404
-Medicament31	1120
-Medicament32	2080
-Medicament33	2100
-Medicament35	1560
-Medicament36	3468
-Medicament37	1420
-Medicament38	816
-Medicament39	440
-Medicament4	4220
-Medicament40	5960
-Medicament41	1620
-Medicament43	2820
-Medicament44	1620
-Medicament47	1960
-Medicament48	1520
-Medicament49	1300
-Medicament5	700
-Medicament50	1512
-Medicament51	384
-Medicament53	2292
-Medicament54	1480
-Medicament55	3200
-Medicament56	1540
-Medicament57	920
-Medicament58	2160
-Medicament59	5364
-Medicament6	1240
-Medicament60	300
-Medicament7	5160
-Medicament8	640
-
-STOCK 2009-01-01
-Medicament1	10	2025-12-28
-Medicament10	20	2025-12-29
-Medicament10	36	2015-01-01
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament14	51	2010-07-30
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	55	2022-05-19
-Medicament21	4	2025-12-22
-Medicament23	20	2025-12-25
-Medicament24	66	2025-12-18
-Medicament25	70	2025-12-23
-Medicament28	38	2009-04-25
-Medicament29	28	2010-05-25
-Medicament30	5	2025-12-26
-Medicament31	26	2011-04-05
-Medicament34	7	2025-12-30
-Medicament36	40	2018-06-09
-Medicament36	60	2025-06-04
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament39	4	2025-12-25
-Medicament4	17	2025-12-20
-Medicament43	0	2025-12-26
-Medicament44	57	2025-12-23
-Medicament45	32	2023-12-04
-Medicament47	34	2021-07-05
-Medicament47	55	2017-09-23
-Medicament48	37	2012-08-16
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament53	42	2010-07-06
-Medicament55	14	2025-12-25
-Medicament56	31	2014-06-22
-Medicament57	43	2025-05-20
-Medicament60	42	2019-03-15
-Medicament7	24	2024-02-08
-Medicament8	7	2025-12-29
-Medicament8	71	2020-01-06
-
-STOCK 2009-01-01
-Medicament1	10	2025-12-28
-Medicament10	20	2025-12-29
-Medicament10	36	2015-01-01
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament14	51	2010-07-30
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	55	2022-05-19
-Medicament21	4	2025-12-22
-Medicament23	20	2025-12-25
-Medicament24	66	2025-12-18
-Medicament25	70	2025-12-23
-Medicament28	38	2009-04-25
-Medicament29	28	2010-05-25
-Medicament30	5	2025-12-26
-Medicament31	26	2011-04-05
-Medicament34	7	2025-12-30
-Medicament36	40	2018-06-09
-Medicament36	60	2025-06-04
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament39	4	2025-12-25
-Medicament4	17	2025-12-20
-Medicament43	0	2025-12-26
-Medicament44	57	2025-12-23
-Medicament45	32	2023-12-04
-Medicament47	34	2021-07-05
-Medicament47	55	2017-09-23
-Medicament48	37	2012-08-16
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament53	42	2010-07-06
-Medicament55	14	2025-12-25
-Medicament56	31	2014-06-22
-Medicament57	43	2025-05-20
-Medicament60	42	2019-03-15
-Medicament7	24	2024-02-08
-Medicament8	7	2025-12-29
-Medicament8	71	2020-01-06
-
-APPROV OK
-STOCK 2009-01-01
-Medicament1	10	2025-12-28
-Medicament10	20	2025-12-29
-Medicament10	36	2015-01-01
-Medicament11	48	2005-02-04
-Medicament12	40	2024-06-23
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament14	45	2007-01-16
-Medicament14	51	2010-07-30
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	48	2009-12-26
-Medicament2	51	2014-06-29
-Medicament2	55	2022-05-19
-Medicament20	3	2014-04-01
-Medicament21	4	2025-12-22
-Medicament23	20	2025-12-25
-Medicament23	58	2016-10-31
-Medicament23	7	2023-02-18
-Medicament24	66	2025-12-18
-Medicament25	70	2025-12-23
-Medicament26	32	2010-02-08
-Medicament28	38	2009-04-25
-Medicament29	28	2010-05-25
-Medicament30	5	2025-12-26
-Medicament31	26	2011-04-05
-Medicament34	39	2011-10-10
-Medicament34	43	2013-03-06
-Medicament34	7	2025-12-30
-Medicament35	8	2024-01-10
-Medicament36	40	2018-06-09
-Medicament36	60	2025-06-04
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament39	4	2025-12-25
-Medicament4	17	2025-12-20
-Medicament4	2	2002-11-06
-Medicament43	0	2025-12-26
-Medicament44	57	2025-12-23
-Medicament45	32	2023-12-04
-Medicament47	34	2021-07-05
-Medicament47	55	2017-09-23
-Medicament48	37	2012-08-16
-Medicament49	70	2006-06-16
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament53	42	2010-07-06
-Medicament55	14	2025-12-25
-Medicament55	53	2003-07-26
-Medicament56	31	2014-06-22
-Medicament57	43	2025-05-20
-Medicament60	42	2019-03-15
-Medicament7	13	2003-10-18
-Medicament7	24	2024-02-08
-Medicament8	65	2015-11-21
-Medicament8	7	2025-12-29
-Medicament8	71	2020-01-06
+2009-05-06	COMMANDES :
+Medicament1	1840
+Medicament11	1440
+Medicament15	1360
+Medicament16	80
+Medicament17	720
+Medicament18	1860
+Medicament19	1380
+Medicament20	1660
+Medicament21	1580
+Medicament24	440
+Medicament27	1740
+Medicament28	960
+Medicament3	680
+Medicament31	740
+Medicament33	4560
+Medicament34	1700
+Medicament36	1040
+Medicament39	640
+Medicament41	1520
+Medicament44	3520
+Medicament45	700
+Medicament46	640
+Medicament47	320
+Medicament48	2040
+Medicament49	800
+Medicament5	800
+Medicament55	20
+Medicament56	3260
+Medicament7	1700
 
 PRESCRIPTION 5
-Medicament20	41	10	COMMANDE
-Medicament31	52	10	COMMANDE
-Medicament60	58	10	COMMANDE
-Medicament47	90	10	COMMANDE
-Medicament38	87	10	COMMANDE
-Medicament31	49	10	COMMANDE
-Medicament15	43	10	COMMANDE
-Medicament27	92	10	COMMANDE
-Medicament31	9	10	COMMANDE
-Medicament11	3	10	OK
-Medicament25	39	10	COMMANDE
-Medicament3	28	10	COMMANDE
-Medicament25	22	10	COMMANDE
-Medicament28	74	10	COMMANDE
-Medicament45	8	10	COMMANDE
-Medicament8	62	10	COMMANDE
-Medicament52	61	10	COMMANDE
-Medicament58	59	10	COMMANDE
-Medicament54	84	10	COMMANDE
-Medicament37	62	10	COMMANDE
-Medicament53	32	10	COMMANDE
-Medicament39	22	10	COMMANDE
-Medicament40	57	10	COMMANDE
-Medicament57	39	10	COMMANDE
-Medicament15	99	10	COMMANDE
-Medicament6	78	10	COMMANDE
-Medicament22	86	10	COMMANDE
-Medicament29	5	10	COMMANDE
-Medicament19	79	10	COMMANDE
-Medicament29	99	10	COMMANDE
-Medicament55	28	10	COMMANDE
-Medicament57	98	10	COMMANDE
-Medicament37	28	10	COMMANDE
-Medicament17	47	10	COMMANDE
-Medicament24	21	10	COMMANDE
-Medicament24	100	10	COMMANDE
-Medicament6	73	10	COMMANDE
-Medicament39	89	10	COMMANDE
-Medicament1	95	10	COMMANDE
-Medicament50	84	10	COMMANDE
-Medicament9	75	10	COMMANDE
-Medicament46	10	10	COMMANDE
-Medicament13	83	10	COMMANDE
-Medicament11	68	10	COMMANDE
-Medicament44	69	10	COMMANDE
-Medicament37	76	10	COMMANDE
-Medicament44	83	10	COMMANDE
-Medicament19	53	10	COMMANDE
-Medicament46	57	10	COMMANDE
-Medicament39	22	10	COMMANDE
-Medicament44	53	10	COMMANDE
-Medicament29	69	10	COMMANDE
-Medicament49	69	10	COMMANDE
-Medicament38	53	10	COMMANDE
-Medicament3	62	10	COMMANDE
-Medicament13	42	10	COMMANDE
-Medicament51	51	10	COMMANDE
-Medicament55	85	10	COMMANDE
-Medicament29	4	10	COMMANDE
-Medicament44	17	10	COMMANDE
-Medicament10	33	10	COMMANDE
-Medicament50	96	10	COMMANDE
-Medicament56	43	10	COMMANDE
-Medicament29	36	10	COMMANDE
-Medicament45	9	10	COMMANDE
-Medicament48	97	10	COMMANDE
-Medicament28	77	10	COMMANDE
-Medicament40	99	10	COMMANDE
-Medicament6	13	10	COMMANDE
-Medicament18	26	10	COMMANDE
-Medicament1	13	10	COMMANDE
-Medicament28	38	10	COMMANDE
-Medicament19	72	10	COMMANDE
-Medicament9	42	10	COMMANDE
-Medicament42	3	10	COMMANDE
-Medicament53	85	10	COMMANDE
-Medicament23	35	10	COMMANDE
-Medicament18	83	10	COMMANDE
-Medicament13	70	10	COMMANDE
-Medicament8	90	10	COMMANDE
-Medicament56	32	10	COMMANDE
-Medicament56	28	10	COMMANDE
-Medicament32	36	10	COMMANDE
-Medicament32	94	10	COMMANDE
-Medicament32	38	10	COMMANDE
-Medicament43	51	10	COMMANDE
-Medicament47	41	10	COMMANDE
+Medicament59	28	35	COMMANDE
+Medicament30	97	35	COMMANDE
+Medicament51	46	35	COMMANDE
+Medicament19	26	35	COMMANDE
+Medicament33	42	35	COMMANDE
+Medicament52	51	35	COMMANDE
+Medicament37	97	35	COMMANDE
+Medicament53	20	35	COMMANDE
+Medicament18	89	35	COMMANDE
+Medicament57	7	35	COMMANDE
+Medicament16	58	35	COMMANDE
+Medicament19	44	35	COMMANDE
+Medicament30	51	35	COMMANDE
+Medicament38	90	35	COMMANDE
+Medicament50	95	35	COMMANDE
+Medicament49	1	35	COMMANDE
+Medicament3	60	35	COMMANDE
+Medicament59	91	35	COMMANDE
+Medicament43	62	35	COMMANDE
+Medicament11	77	35	COMMANDE
+Medicament5	100	35	COMMANDE
+Medicament52	89	35	COMMANDE
+Medicament50	63	35	COMMANDE
+Medicament34	4	35	COMMANDE
+Medicament13	36	35	COMMANDE
+Medicament45	90	35	COMMANDE
+Medicament29	81	35	COMMANDE
+Medicament6	15	35	COMMANDE
+Medicament52	90	35	COMMANDE
+Medicament39	34	35	COMMANDE
+Medicament13	10	35	COMMANDE
+Medicament7	37	35	COMMANDE
+Medicament58	8	35	COMMANDE
+Medicament12	92	35	COMMANDE
+Medicament20	54	35	COMMANDE
+Medicament14	55	35	COMMANDE
+Medicament37	56	35	COMMANDE
+Medicament29	35	35	COMMANDE
+Medicament37	83	35	COMMANDE
+Medicament10	93	35	COMMANDE
+Medicament13	82	35	COMMANDE
+Medicament55	10	35	COMMANDE
+Medicament53	99	35	COMMANDE
 
-APPROV OK
-2007-02-22	COMMANDES :
-Medicament1	1080
-Medicament10	330
-Medicament11	680
-Medicament13	1950
-Medicament15	1420
-Medicament17	470
-Medicament18	1090
-Medicament19	2040
-Medicament20	410
-Medicament22	860
-Medicament23	350
-Medicament24	1210
-Medicament25	610
-Medicament27	920
-Medicament28	1890
-Medicament29	2130
-Medicament3	900
-Medicament31	1100
-Medicament32	1680
-Medicament37	1660
-Medicament38	1400
-Medicament39	1330
-Medicament40	1560
-Medicament42	30
-Medicament43	510
-Medicament44	2220
-Medicament45	170
-Medicament46	670
-Medicament47	1310
-Medicament48	970
-Medicament49	690
-Medicament50	1800
-Medicament51	510
-Medicament52	610
-Medicament53	1170
-Medicament54	840
-Medicament55	1130
-Medicament56	1030
-Medicament57	1370
-Medicament58	590
-Medicament6	1640
-Medicament60	580
-Medicament8	1520
-Medicament9	1170
-
-APPROV OK
-APPROV OK
-APPROV OK
-APPROV OK
-APPROV OK
 APPROV OK
 APPROV OK
 PRESCRIPTION 6
-Medicament2	11	18	COMMANDE
-Medicament12	27	18	COMMANDE
-Medicament13	30	18	COMMANDE
-Medicament50	2	18	COMMANDE
-Medicament4	23	18	COMMANDE
-Medicament33	100	18	COMMANDE
-Medicament43	57	18	COMMANDE
-Medicament18	48	18	COMMANDE
-Medicament51	17	18	COMMANDE
-Medicament13	87	18	COMMANDE
-Medicament5	95	18	COMMANDE
-Medicament34	84	18	COMMANDE
-Medicament22	38	18	COMMANDE
-Medicament44	19	18	COMMANDE
-Medicament4	71	18	COMMANDE
-Medicament12	60	18	COMMANDE
-Medicament3	43	18	COMMANDE
-Medicament40	10	18	COMMANDE
-Medicament10	46	18	COMMANDE
-Medicament40	96	18	COMMANDE
-Medicament49	29	18	COMMANDE
-Medicament29	76	18	COMMANDE
-Medicament10	39	18	COMMANDE
-Medicament9	88	18	COMMANDE
-Medicament12	48	18	COMMANDE
-Medicament40	94	18	COMMANDE
-Medicament39	67	18	COMMANDE
-Medicament20	96	18	COMMANDE
-Medicament19	54	18	COMMANDE
-Medicament29	68	18	COMMANDE
-Medicament5	16	18	COMMANDE
-Medicament47	81	18	COMMANDE
-Medicament40	15	18	COMMANDE
-Medicament32	1	18	OK
-Medicament22	47	18	COMMANDE
-Medicament27	59	18	COMMANDE
-Medicament22	56	18	COMMANDE
-Medicament7	41	18	COMMANDE
-Medicament46	92	18	COMMANDE
-Medicament2	87	18	COMMANDE
-Medicament21	25	18	COMMANDE
-Medicament13	1	18	OK
-Medicament6	70	18	COMMANDE
-Medicament5	100	18	COMMANDE
-Medicament37	4	18	COMMANDE
-Medicament32	49	18	COMMANDE
-Medicament24	17	18	COMMANDE
-Medicament6	35	18	COMMANDE
-Medicament27	37	18	COMMANDE
-Medicament11	83	18	COMMANDE
-Medicament5	46	18	COMMANDE
-Medicament46	1	18	OK
-Medicament34	78	18	COMMANDE
-Medicament9	58	18	COMMANDE
-Medicament53	87	18	COMMANDE
-Medicament52	41	18	COMMANDE
-Medicament51	75	18	COMMANDE
-Medicament48	7	18	COMMANDE
-Medicament15	57	18	COMMANDE
-Medicament36	16	18	COMMANDE
-Medicament5	80	18	COMMANDE
-Medicament2	91	18	COMMANDE
-Medicament30	19	18	COMMANDE
-Medicament8	78	18	COMMANDE
-Medicament1	51	18	COMMANDE
-Medicament23	48	18	COMMANDE
-Medicament16	54	18	COMMANDE
-Medicament58	36	18	COMMANDE
-Medicament7	85	18	COMMANDE
-Medicament56	87	18	COMMANDE
-Medicament38	33	18	COMMANDE
-Medicament19	77	18	COMMANDE
-Medicament22	90	18	COMMANDE
-Medicament45	33	18	COMMANDE
-Medicament5	20	18	COMMANDE
-Medicament13	95	18	COMMANDE
-Medicament11	87	18	COMMANDE
-Medicament20	56	18	COMMANDE
-Medicament10	6	18	COMMANDE
-Medicament22	38	18	COMMANDE
-Medicament46	48	18	COMMANDE
-Medicament23	61	18	COMMANDE
-Medicament26	76	18	COMMANDE
-Medicament14	17	18	COMMANDE
-Medicament11	96	18	COMMANDE
-Medicament17	21	18	COMMANDE
-Medicament10	82	18	COMMANDE
-Medicament24	53	18	COMMANDE
-
-2011-01-08	COMMANDES :
-Medicament1	918
-Medicament10	3114
-Medicament11	4788
-Medicament12	2430
-Medicament13	3816
-Medicament14	306
-Medicament15	1026
-Medicament16	972
-Medicament17	378
-Medicament18	864
-Medicament19	2358
-Medicament2	3402
-Medicament20	2736
-Medicament21	450
-Medicament22	4842
-Medicament23	1962
-Medicament24	1260
-Medicament26	1368
-Medicament27	1728
-Medicament29	2592
-Medicament3	774
-Medicament30	342
-Medicament32	882
-Medicament33	1800
-Medicament34	2916
-Medicament36	288
-Medicament37	72
-Medicament38	594
-Medicament39	1206
-Medicament4	1692
-Medicament40	3870
-Medicament43	1026
-Medicament44	342
-Medicament45	594
-Medicament46	2520
-Medicament47	1458
-Medicament48	126
-Medicament49	522
-Medicament5	6426
-Medicament50	36
-Medicament51	1656
-Medicament52	738
-Medicament53	1566
-Medicament56	1566
-Medicament58	648
-Medicament6	1890
-Medicament7	2268
-Medicament8	1404
-Medicament9	2628
-
-STOCK 2011-01-08
-Medicament1	10	2025-12-28
-Medicament1	49	2023-08-15
-Medicament10	20	2025-12-29
-Medicament11	24	2018-05-28
-Medicament11	26	2015-03-21
-Medicament11	27	2012-09-25
-Medicament12	40	2024-06-23
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament15	12	2014-07-21
-Medicament17	66	2021-03-25
-Medicament18	63	2024-07-07
-Medicament19	7	2018-01-17
-Medicament19	70	2025-02-02
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	55	2022-05-19
-Medicament20	37	2022-04-22
-Medicament21	30	2022-07-27
-Medicament21	36	2021-08-16
-Medicament21	4	2025-12-22
-Medicament21	73	2022-11-11
-Medicament23	20	2025-12-25
-Medicament23	23	2022-07-03
-Medicament23	25	2012-08-06
-Medicament23	5	2019-07-23
-Medicament23	7	2023-02-18
-Medicament24	12	2011-08-15
-Medicament24	61	2015-11-14
-Medicament24	66	2025-12-18
-Medicament25	14	2021-03-29
-Medicament25	15	2017-11-12
-Medicament25	24	2025-01-04
-Medicament25	70	2025-12-23
-Medicament30	5	2025-12-26
-Medicament30	51	2021-12-22
-Medicament32	35	2023-12-02
-Medicament33	54	2022-08-23
-Medicament34	7	2025-12-30
-Medicament34	71	2013-07-09
-Medicament35	22	2016-08-09
-Medicament35	8	2024-01-10
-Medicament36	37	2021-06-23
-Medicament36	60	2025-06-04
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament38	51	2020-09-27
-Medicament39	4	2025-12-25
-Medicament39	67	2012-02-19
-Medicament4	17	2025-12-20
-Medicament4	2	2024-09-19
-Medicament4	53	2014-02-03
-Medicament40	14	2020-01-12
-Medicament40	6	2025-07-14
-Medicament40	66	2014-03-25
-Medicament41	62	2025-10-15
-Medicament42	63	2014-11-18
-Medicament43	0	2025-12-26
-Medicament43	23	2017-05-03
-Medicament43	45	2021-06-01
-Medicament44	42	2022-09-09
-Medicament44	57	2025-12-23
-Medicament45	31	2024-09-17
-Medicament45	32	2023-12-04
-Medicament45	44	2022-10-03
-Medicament46	19	2021-08-03
-Medicament47	34	2021-07-05
-Medicament49	13	2011-10-18
-Medicament49	20	2024-11-01
-Medicament49	8	2012-02-11
-Medicament5	65	2011-06-29
-Medicament50	25	2018-05-17
-Medicament51	8	2011-02-07
-Medicament52	40	2012-04-28
-Medicament52	8	2016-05-29
-Medicament52	9	2012-12-09
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament53	46	2019-01-04
-Medicament53	49	2023-03-13
-Medicament53	51	2019-01-06
-Medicament53	55	2014-10-22
-Medicament54	41	2011-07-31
-Medicament54	57	2023-05-05
-Medicament54	67	2014-08-08
-Medicament54	9	2022-12-23
-Medicament55	14	2025-12-25
-Medicament55	37	2014-03-17
-Medicament56	18	2018-03-04
-Medicament57	43	2025-05-20
-Medicament58	30	2020-07-21
-Medicament59	65	2024-07-17
-Medicament59	8	2013-07-21
-Medicament6	25	2012-05-03
-Medicament6	37	2019-02-05
-Medicament6	4	2018-02-01
-Medicament6	40	2025-08-26
-Medicament60	42	2019-03-15
-Medicament60	58	2015-12-31
-Medicament60	64	2022-08-20
-Medicament7	24	2024-02-08
-Medicament7	42	2014-07-27
-Medicament7	68	2013-01-06
-Medicament8	7	2025-12-29
-Medicament8	71	2020-01-06
+Medicament49	32	31	COMMANDE
+Medicament15	19	31	COMMANDE
+Medicament60	87	31	COMMANDE
+Medicament33	60	31	COMMANDE
+Medicament36	9	31	COMMANDE
+Medicament33	87	31	COMMANDE
+Medicament46	77	31	COMMANDE
+Medicament8	80	31	COMMANDE
+Medicament31	25	31	COMMANDE
+Medicament11	96	31	COMMANDE
+Medicament53	36	31	COMMANDE
+Medicament44	9	31	COMMANDE
+Medicament43	92	31	COMMANDE
+Medicament15	27	31	COMMANDE
+Medicament1	73	31	COMMANDE
+Medicament4	22	31	COMMANDE
+Medicament46	34	31	COMMANDE
+Medicament18	67	31	COMMANDE
+Medicament13	64	31	COMMANDE
+Medicament57	66	31	COMMANDE
+Medicament48	81	31	COMMANDE
+Medicament57	86	31	COMMANDE
+Medicament11	43	31	COMMANDE
+Medicament52	65	31	COMMANDE
+Medicament30	96	31	COMMANDE
+Medicament26	54	31	COMMANDE
+Medicament6	14	31	COMMANDE
+Medicament1	69	31	COMMANDE
+Medicament57	59	31	COMMANDE
+Medicament31	26	31	COMMANDE
+Medicament58	31	31	COMMANDE
+Medicament48	27	31	COMMANDE
+Medicament47	93	31	COMMANDE
+Medicament17	80	31	COMMANDE
+Medicament35	81	31	COMMANDE
+Medicament55	21	31	COMMANDE
+Medicament20	88	31	COMMANDE
+Medicament10	83	31	COMMANDE
+Medicament37	51	31	COMMANDE
+Medicament9	99	31	COMMANDE
+Medicament18	98	31	COMMANDE
+Medicament31	80	31	COMMANDE
+Medicament25	67	31	COMMANDE
+Medicament53	100	31	COMMANDE
+Medicament5	99	31	COMMANDE
+Medicament58	83	31	COMMANDE
+Medicament10	28	31	COMMANDE
+Medicament8	64	31	COMMANDE
+Medicament19	67	31	COMMANDE
+Medicament4	36	31	COMMANDE
+Medicament48	34	31	COMMANDE
+Medicament10	25	31	COMMANDE
+Medicament28	86	31	COMMANDE
+Medicament8	44	31	COMMANDE
+Medicament28	35	31	COMMANDE
+Medicament33	83	31	COMMANDE
+Medicament27	75	31	COMMANDE
+Medicament30	39	31	COMMANDE
+Medicament9	29	31	COMMANDE
+Medicament8	57	31	COMMANDE
+Medicament43	48	31	COMMANDE
+Medicament25	92	31	COMMANDE
+Medicament52	81	31	COMMANDE
+Medicament53	76	31	COMMANDE
+Medicament54	38	31	COMMANDE
+Medicament21	70	31	COMMANDE
+Medicament29	27	31	COMMANDE
+Medicament22	41	31	COMMANDE
+Medicament5	47	31	COMMANDE
+Medicament8	23	31	COMMANDE
+Medicament47	44	31	COMMANDE
+Medicament55	80	31	COMMANDE
 
 PRESCRIPTION 7
-Medicament35	27	13	COMMANDE
-Medicament43	28	13	COMMANDE
-Medicament4	52	13	COMMANDE
-Medicament38	83	13	COMMANDE
-Medicament30	86	13	COMMANDE
-Medicament33	19	13	COMMANDE
-Medicament1	71	13	COMMANDE
-Medicament36	3	13	COMMANDE
-Medicament20	31	13	COMMANDE
-Medicament59	2	13	COMMANDE
-Medicament7	55	13	COMMANDE
-Medicament37	63	13	COMMANDE
-Medicament8	62	13	COMMANDE
-Medicament11	50	13	COMMANDE
-Medicament7	100	13	COMMANDE
-Medicament16	16	13	COMMANDE
-Medicament3	48	13	COMMANDE
-Medicament26	91	13	COMMANDE
-Medicament30	60	13	COMMANDE
-Medicament10	28	13	COMMANDE
-Medicament8	36	13	COMMANDE
-Medicament48	83	13	COMMANDE
-Medicament21	44	13	COMMANDE
-Medicament50	76	13	COMMANDE
-Medicament17	99	13	COMMANDE
-Medicament27	37	13	COMMANDE
-
-STOCK 2011-01-08
-Medicament1	10	2025-12-28
-Medicament1	49	2023-08-15
-Medicament10	20	2025-12-29
-Medicament11	24	2018-05-28
-Medicament11	26	2015-03-21
-Medicament11	27	2012-09-25
-Medicament12	40	2024-06-23
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament15	12	2014-07-21
-Medicament17	66	2021-03-25
-Medicament18	63	2024-07-07
-Medicament19	7	2018-01-17
-Medicament19	70	2025-02-02
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	55	2022-05-19
-Medicament20	37	2022-04-22
-Medicament21	30	2022-07-27
-Medicament21	36	2021-08-16
-Medicament21	4	2025-12-22
-Medicament21	73	2022-11-11
-Medicament23	20	2025-12-25
-Medicament23	23	2022-07-03
-Medicament23	25	2012-08-06
-Medicament23	5	2019-07-23
-Medicament23	7	2023-02-18
-Medicament24	12	2011-08-15
-Medicament24	61	2015-11-14
-Medicament24	66	2025-12-18
-Medicament25	14	2021-03-29
-Medicament25	15	2017-11-12
-Medicament25	24	2025-01-04
-Medicament25	70	2025-12-23
-Medicament30	5	2025-12-26
-Medicament30	51	2021-12-22
-Medicament32	35	2023-12-02
-Medicament33	54	2022-08-23
-Medicament34	7	2025-12-30
-Medicament34	71	2013-07-09
-Medicament35	22	2016-08-09
-Medicament35	8	2024-01-10
-Medicament36	37	2021-06-23
-Medicament36	60	2025-06-04
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament38	51	2020-09-27
-Medicament39	4	2025-12-25
-Medicament39	67	2012-02-19
-Medicament4	17	2025-12-20
-Medicament4	2	2024-09-19
-Medicament4	53	2014-02-03
-Medicament40	14	2020-01-12
-Medicament40	6	2025-07-14
-Medicament40	66	2014-03-25
-Medicament41	62	2025-10-15
-Medicament42	63	2014-11-18
-Medicament43	0	2025-12-26
-Medicament43	23	2017-05-03
-Medicament43	45	2021-06-01
-Medicament44	42	2022-09-09
-Medicament44	57	2025-12-23
-Medicament45	31	2024-09-17
-Medicament45	32	2023-12-04
-Medicament45	44	2022-10-03
-Medicament46	19	2021-08-03
-Medicament47	34	2021-07-05
-Medicament49	13	2011-10-18
-Medicament49	20	2024-11-01
-Medicament49	8	2012-02-11
-Medicament5	65	2011-06-29
-Medicament50	25	2018-05-17
-Medicament51	8	2011-02-07
-Medicament52	40	2012-04-28
-Medicament52	8	2016-05-29
-Medicament52	9	2012-12-09
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament53	46	2019-01-04
-Medicament53	49	2023-03-13
-Medicament53	51	2019-01-06
-Medicament53	55	2014-10-22
-Medicament54	41	2011-07-31
-Medicament54	57	2023-05-05
-Medicament54	67	2014-08-08
-Medicament54	9	2022-12-23
-Medicament55	14	2025-12-25
-Medicament55	37	2014-03-17
-Medicament56	18	2018-03-04
-Medicament57	43	2025-05-20
-Medicament58	30	2020-07-21
-Medicament59	65	2024-07-17
-Medicament59	8	2013-07-21
-Medicament6	25	2012-05-03
-Medicament6	37	2019-02-05
-Medicament6	4	2018-02-01
-Medicament6	40	2025-08-26
-Medicament60	42	2019-03-15
-Medicament60	58	2015-12-31
-Medicament60	64	2022-08-20
-Medicament7	24	2024-02-08
-Medicament7	42	2014-07-27
-Medicament7	68	2013-01-06
-Medicament8	7	2025-12-29
-Medicament8	71	2020-01-06
+Medicament1	75	2	COMMANDE
+Medicament50	1	2	OK
+Medicament5	47	2	COMMANDE
+Medicament5	75	2	COMMANDE
+Medicament3	26	2	COMMANDE
+Medicament60	77	2	COMMANDE
+Medicament35	64	2	COMMANDE
+Medicament10	42	2	COMMANDE
+Medicament46	21	2	COMMANDE
+Medicament57	35	2	COMMANDE
+Medicament53	38	2	COMMANDE
+Medicament18	38	2	COMMANDE
+Medicament25	64	2	COMMANDE
+Medicament31	11	2	COMMANDE
+Medicament7	45	2	COMMANDE
+Medicament21	37	2	COMMANDE
+Medicament7	11	2	OK
+Medicament49	38	2	COMMANDE
+Medicament27	2	2	OK
+Medicament39	25	2	OK
+Medicament2	22	2	OK
+Medicament23	9	2	COMMANDE
+Medicament22	14	2	COMMANDE
+Medicament24	79	2	COMMANDE
+Medicament39	94	2	COMMANDE
+Medicament54	65	2	COMMANDE
+Medicament26	51	2	COMMANDE
+Medicament36	41	2	COMMANDE
+Medicament14	29	2	COMMANDE
+Medicament3	81	2	COMMANDE
+Medicament31	58	2	COMMANDE
+Medicament14	40	2	COMMANDE
+Medicament5	49	2	COMMANDE
+Medicament18	50	2	COMMANDE
+Medicament35	66	2	COMMANDE
+Medicament6	94	2	COMMANDE
+Medicament10	29	2	COMMANDE
+Medicament57	65	2	COMMANDE
+Medicament24	39	2	COMMANDE
+Medicament44	33	2	OK
+Medicament43	18	2	OK
+Medicament28	40	2	COMMANDE
+Medicament15	93	2	COMMANDE
+Medicament16	70	2	COMMANDE
+Medicament58	27	2	COMMANDE
+Medicament24	80	2	COMMANDE
+Medicament60	64	2	COMMANDE
+Medicament46	98	2	COMMANDE
+Medicament19	29	2	COMMANDE
+Medicament54	97	2	COMMANDE
+Medicament22	54	2	COMMANDE
+Medicament9	55	2	COMMANDE
+Medicament27	87	2	COMMANDE
+Medicament2	54	2	COMMANDE
+Medicament5	24	2	COMMANDE
+Medicament46	43	2	COMMANDE
+Medicament28	94	2	COMMANDE
+Medicament46	52	2	COMMANDE
+Medicament48	98	2	COMMANDE
+Medicament51	60	2	COMMANDE
+Medicament29	65	2	COMMANDE
+Medicament2	86	2	COMMANDE
+Medicament7	59	2	COMMANDE
+Medicament22	62	2	COMMANDE
 
 APPROV OK
-APPROV OK
+2001-04-20	COMMANDES :
+Medicament1	4552
+Medicament10	7613
+Medicament11	7004
+Medicament12	3220
+Medicament13	6464
+Medicament14	2063
+Medicament15	1612
+Medicament16	2170
+Medicament17	2480
+Medicament18	8406
+Medicament19	4585
+Medicament2	280
+Medicament20	4618
+Medicament21	2244
+Medicament22	1531
+Medicament23	18
+Medicament24	396
+Medicament25	5057
+Medicament26	1776
+Medicament27	2499
+Medicament28	4019
+Medicament29	5027
+Medicament3	2314
+Medicament30	9365
+Medicament31	4199
+Medicament33	8600
+Medicament34	140
+Medicament35	2771
+Medicament36	361
+Medicament37	9841
+Medicament38	3150
+Medicament39	1378
+Medicament4	1798
+Medicament43	6510
+Medicament44	279
+Medicament45	3150
+Medicament46	3869
+Medicament47	4247
+Medicament48	4598
+Medicament49	1103
+Medicament5	8416
+Medicament50	5530
+Medicament51	1730
+Medicament52	12576
+Medicament53	10813
+Medicament54	1502
+Medicament55	3481
+Medicament57	6986
+Medicament58	3868
+Medicament59	4165
+Medicament6	1147
+Medicament60	2979
+Medicament7	1503
+Medicament8	8308
+Medicament9	4078
+
 APPROV OK
 PRESCRIPTION 8
-Medicament52	31	35	COMMANDE
-Medicament57	67	35	COMMANDE
-Medicament4	93	35	COMMANDE
-Medicament7	15	35	COMMANDE
-Medicament47	82	35	COMMANDE
-Medicament58	3	35	COMMANDE
-Medicament55	86	35	COMMANDE
-Medicament52	66	35	COMMANDE
-Medicament15	28	35	COMMANDE
-Medicament48	89	35	COMMANDE
-Medicament13	2	35	COMMANDE
-Medicament28	30	35	COMMANDE
-Medicament46	8	35	COMMANDE
-Medicament38	63	35	COMMANDE
-Medicament2	34	35	COMMANDE
-Medicament57	100	35	COMMANDE
-Medicament49	21	35	COMMANDE
-Medicament8	51	35	COMMANDE
-Medicament17	46	35	COMMANDE
-Medicament55	36	35	COMMANDE
-Medicament25	66	35	COMMANDE
-
-APPROV OK
-APPROV OK
-STOCK 2011-01-08
-Medicament1	10	2025-12-28
-Medicament1	26	2023-03-18
-Medicament1	49	2023-08-15
-Medicament1	63	2020-03-09
-Medicament10	20	2025-12-29
-Medicament10	46	2024-09-21
-Medicament11	24	2018-05-28
-Medicament11	26	2015-03-21
-Medicament11	27	2004-05-02
-Medicament11	27	2012-09-25
-Medicament12	24	2017-09-16
-Medicament12	40	2024-06-23
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament14	41	2018-12-15
-Medicament14	46	2009-05-29
-Medicament15	12	2014-07-21
-Medicament15	30	2017-09-28
-Medicament15	32	2023-11-05
-Medicament15	46	2004-02-09
-Medicament15	60	2016-02-17
-Medicament15	7	2011-03-22
-Medicament17	26	2021-05-21
-Medicament17	29	2003-07-30
-Medicament17	64	2017-10-09
-Medicament17	66	2021-03-25
-Medicament18	63	2024-07-07
-Medicament18	65	2000-10-11
-Medicament19	10	2024-12-29
-Medicament19	7	2018-01-17
-Medicament19	70	2025-02-02
-Medicament2	25	2021-10-15
-Medicament2	32	2025-12-17
-Medicament2	55	2022-05-19
-Medicament20	37	2022-04-22
-Medicament20	8	2023-03-31
-Medicament21	30	2022-07-27
-Medicament21	36	2021-08-16
-Medicament21	4	2025-12-22
-Medicament21	73	2022-11-11
-Medicament22	27	2014-07-27
-Medicament22	60	2004-08-11
-Medicament23	20	2025-12-25
-Medicament23	23	2022-07-03
-Medicament23	25	2012-08-06
-Medicament23	26	2025-06-24
-Medicament23	35	2011-08-30
-Medicament23	5	2019-07-23
-Medicament23	7	2023-02-18
-Medicament24	12	2011-08-15
-Medicament24	61	2015-11-14
-Medicament24	66	2025-12-18
-Medicament25	14	2021-03-29
-Medicament25	15	2017-11-12
-Medicament25	24	2025-01-04
-Medicament25	46	2012-05-25
-Medicament25	55	2005-04-30
-Medicament25	70	2025-12-23
-Medicament27	33	2012-05-12
-Medicament27	62	2000-02-11
-Medicament29	40	2009-06-16
-Medicament29	63	2019-07-14
-Medicament3	56	2012-11-18
-Medicament30	5	2025-12-26
-Medicament30	51	2021-12-22
-Medicament30	56	2022-04-19
-Medicament31	51	2007-10-14
-Medicament32	35	2023-12-02
-Medicament32	50	2016-01-15
-Medicament33	16	2019-06-16
-Medicament33	36	2014-05-20
-Medicament33	54	2022-08-23
-Medicament33	56	2002-06-28
-Medicament33	67	2002-01-27
-Medicament34	7	2025-12-30
-Medicament34	71	2013-07-09
-Medicament35	22	2016-08-09
-Medicament35	8	2024-01-10
-Medicament36	29	2011-10-25
-Medicament36	37	2021-06-23
-Medicament36	60	2025-06-04
-Medicament36	9	2025-12-24
-Medicament37	1	2025-12-28
-Medicament37	71	2013-04-10
-Medicament38	51	2020-09-27
-Medicament38	67	2017-04-15
-Medicament39	14	2021-12-28
-Medicament39	4	2025-12-25
-Medicament39	67	2012-02-19
-Medicament4	16	2008-02-29
-Medicament4	17	2025-12-20
-Medicament4	2	2024-09-19
-Medicament4	53	2014-02-03
-Medicament4	7	2020-03-27
-Medicament40	14	2020-01-12
-Medicament40	6	2025-07-14
-Medicament40	66	2014-03-25
-Medicament40	75	2001-09-11
-Medicament41	53	2006-05-27
-Medicament41	56	2016-11-17
-Medicament41	57	2003-01-25
-Medicament41	62	2025-10-15
-Medicament42	33	2005-08-07
-Medicament42	63	2014-11-18
-Medicament43	0	2025-12-26
-Medicament43	23	2017-05-03
-Medicament43	45	2021-06-01
-Medicament44	17	2000-12-05
-Medicament44	42	2003-03-10
-Medicament44	42	2022-09-09
-Medicament44	57	2025-12-23
-Medicament45	31	2024-09-17
-Medicament45	32	2023-12-04
-Medicament45	44	2022-10-03
-Medicament46	10	2015-03-19
-Medicament46	19	2021-08-03
-Medicament46	43	2015-07-31
-Medicament46	65	2021-12-23
-Medicament46	69	2004-03-08
-Medicament47	34	2021-07-05
-Medicament47	61	2013-03-28
-Medicament47	66	2008-06-19
-Medicament48	53	2009-02-06
-Medicament49	13	2011-10-18
-Medicament49	20	2024-11-01
-Medicament49	22	2000-07-03
-Medicament49	64	2003-07-07
-Medicament49	8	2012-02-11
-Medicament5	25	2019-11-22
-Medicament5	30	2009-03-11
-Medicament5	65	2011-06-29
-Medicament50	25	2018-05-17
-Medicament51	8	2011-02-07
-Medicament52	40	2012-04-28
-Medicament52	8	2016-05-29
-Medicament52	9	2012-12-09
-Medicament53	10	2025-12-14
-Medicament53	26	2025-12-26
-Medicament53	46	2019-01-04
-Medicament53	49	2023-03-13
-Medicament53	51	2019-01-06
-Medicament53	55	2014-10-22
-Medicament53	70	2016-10-26
-Medicament54	28	2023-09-18
-Medicament54	3	2004-06-06
-Medicament54	41	2011-07-31
-Medicament54	57	2023-05-05
-Medicament54	63	2011-11-07
-Medicament54	67	2014-08-08
-Medicament54	9	2022-12-23
-Medicament55	14	2025-12-25
-Medicament55	37	2014-03-17
-Medicament56	18	2018-03-04
-Medicament57	43	2025-05-20
-Medicament57	68	2020-10-25
-Medicament58	30	2020-07-21
-Medicament59	65	2024-07-17
-Medicament59	8	2013-07-21
-Medicament6	25	2012-05-03
-Medicament6	28	2003-05-09
-Medicament6	37	2019-02-05
-Medicament6	4	2018-02-01
-Medicament6	40	2025-08-26
-Medicament6	5	2002-01-07
-Medicament6	5	2015-02-07
-Medicament60	42	2019-03-15
-Medicament60	58	2015-12-31
-Medicament60	61	2003-05-22
-Medicament60	64	2022-08-20
-Medicament7	24	2024-02-08
-Medicament7	42	2014-07-27
-Medicament7	68	2013-01-06
-Medicament8	7	2025-12-29
-Medicament8	71	2020-01-06
-Medicament9	3	2002-10-06
-Medicament9	50	2004-04-04
-
-STOCK 2011-01-08
-Medicament1	10	2025-12-28
-Medicament1	26	2023-03-18
-Medicament1	49	2023-08-15
-Medicament1	63	2020-03-09
-Medicament10	20	2025-12-29
-Medicament10	46	2024-09-21
-Medicament11	24	2018-05-28
-Medicament11	26	2015-03-21
-Medicament11	27	2004-05-02
-Medicament11	27	2012-09-25
-Medicament12	24	2017-09-16
-Medicament12	40	2024-06-23
-Medicament13	9	2025-12-17
-Medicament14	35	2025-12-15
-Medicament14	4	2025-12-30
-Medicament14	41	2018-12-15
-Medicament14	46	2009-05-29
-Medicament15	12	2014-07-21
-Medicament15	30	2017-09-28
-Medicament15	32	2023-11-05
-Medicament15	46	2004-02-09
-Medicament15	60	2016-02-17
-Medicament15	7	2011-03-22
-Medicament17	26	2021-05-21
-Medicament17	29	2003-07-30
-Medicament17	64	2017-10-09
-Medicament17	66	2021-03-25
-Medicament18	63	2024-07-07
-Medicament18	65	2000-10-11
+Medicament20	11	48	COMMANDE
+Medicament6	9	48	COMMANDE
+Medicament57	69	48	COMMANDE
+Medicament11	13	48	COMMANDE
+Medicament49	66	48	COMMANDE
+Medicament15	53	48	COMMANDE
+Medicament41	39	48	COMMANDE
+Medicament28	18	48	COMMANDE
+Medicament7	64	48	COMMANDE
+Medicament31	2	48	COMMANDE
+Medicament20	41	48	COMMANDE
+Medicament49	41	48	COMMANDE
+Medicament41	79	48	COMMANDE
+Medicament17	5	48	COMMANDE
+Medicament1	18	48	COMMANDE
+Medicament48	33	48	COMMANDE
+Medicament38	3	48	COMMANDE
+Medicament53	54	48	COMMANDE
+Medicament45	2	48	COMMANDE
+Medicament48	32	48	COMMANDE
+Medicament19	26	48	COMMANDE
+Medicament10	56	48	COMMANDE
+Medicament30	40	48	COMMANDE
+Medicament14	12	48	COMMANDE
+Medicament22	58	48	COMMANDE
+Medicament56	98	48	COMMANDE
+Medicament34	60	48	COMMANDE
+Medicament51	26	48	COMMANDE
+Medicament7	54	48	COMMANDE
+Medicament24	100	48	COMMANDE
+Medicament31	49	48	COMMANDE
+Medicament25	57	48	COMMANDE
+Medicament34	64	48	COMMANDE
+Medicament16	55	48	COMMANDE
+Medicament27	99	48	COMMANDE
+Medicament59	23	48	COMMANDE
+Medicament50	47	48	COMMANDE
+Medicament38	24	48	COMMANDE
+Medicament31	89	48	COMMANDE
+Medicament4	26	48	COMMANDE
+Medicament14	

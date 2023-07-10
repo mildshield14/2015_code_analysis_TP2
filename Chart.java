@@ -76,8 +76,8 @@ import java.util.ArrayList;
 
             // Create the chart
             JFreeChart chart = ChartFactory.createScatterPlot(
-                    "Graphique montrant l'Analyse Empirique",
-                    "n / entrepot(s)",
+                    "Graphique montrant l'Analyse Empirique du code Integrale",
+                    "n / fichiers testés",
                     "temps / ms",
                     dataset,
                     PlotOrientation.VERTICAL,

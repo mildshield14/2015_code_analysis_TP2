@@ -45,6 +45,7 @@ return num1;
 
     public static int generateFileContent(int n,FileWriter writer) throws IOException {
         writer.write("DATE " + generateRandomDate() + " ;\n");
+
         int count=10;
         int count2=10;
         int num=0;
@@ -53,17 +54,22 @@ return num1;
             //writer.write(command + " :\n");
 
             if (command.equals("APPROV")) {
-
                 writer.write("APPROV : \n");
-                num=num+generateMedicamentData(writer);
-            } else if (command.equals("PRESCRIPTION")  && count>0) {
-                count=count-1;
+                int intt=generateMedicamentData(writer);
+               // num=num+1;
+                //int number = generateMedicamentData(writer);
+              //  num=num+number;
+            } else if (command.equals("PRESCRIPTION")) {
+              //  count=count-1;
+              //  num=num+1;
                 writer.write("PRESCRIPTION :\n");
-               generatePrescriptionData(writer);
+               num=num+generatePrescriptionData(writer);
             }else if(command.equals("STOCK")){
+               // num=num+1;
                 writer.write("STOCK\n");
-            }else if(command.equals("DATE")&& count2>0){
-                count2=count2-1;
+            }else if(command.equals("DATE")){
+              //  count2=count2-1;
+               // num=num+1;
                 writer.write("DATE " + generateRandomDate());
             }
 
@@ -76,6 +82,7 @@ return num1;
         int numMedicaments = random.nextInt(20) + 5;
 
         for (int i = 0; i < numMedicaments; i++) {
+
             String medicament = getRandomMedicament();
             int stock = random.nextInt(MAX_STOCK) + 1;
             LocalDate date = generateRandomDate();
@@ -85,16 +92,17 @@ return num1;
         return numMedicaments;
     }
 
-    public static void generatePrescriptionData(FileWriter writer) throws IOException {
+    public static int generatePrescriptionData(FileWriter writer) throws IOException {
         int numPrescriptions = random.nextInt(100) + 1; // Generate between 1 to 50 prescriptions
         int rep=random.nextInt(50) + 1;
+        int number=0;
         for (int i = 0; i < numPrescriptions; i++) {
             String medicament = getRandomMedicament();
             int quantity = random.nextInt(MAX_PRESCRIPTION_QUANTITY) + 1;
-
+            number =number+1;
             writer.write(medicament + "\t" + quantity + "\t" + rep + "\n");
         }
-
+return number;
     }
 
     public static String getRandomMedicament() {
