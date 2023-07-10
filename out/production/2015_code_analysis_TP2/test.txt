@@ -1,0 +1,1038 @@
+DATE 2001-07-12 ;
+PRESCRIPTION :
+Medicament8	52	35
+Medicament50	32	35
+Medicament28	14	35
+Medicament34	7	35
+Medicament11	6	35
+Medicament26	40	35
+Medicament57	17	35
+Medicament30	63	35
+Medicament59	88	35
+;
+PRESCRIPTION :
+Medicament23	4	20
+Medicament42	56	20
+Medicament29	53	20
+Medicament29	82	20
+Medicament20	33	20
+Medicament4	94	20
+Medicament38	69	20
+Medicament11	38	20
+Medicament34	72	20
+Medicament46	18	20
+Medicament27	67	20
+Medicament58	2	20
+Medicament6	5	20
+Medicament41	84	20
+Medicament8	73	20
+Medicament60	15	20
+Medicament25	61	20
+Medicament14	56	20
+Medicament20	5	20
+Medicament17	51	20
+Medicament32	13	20
+Medicament1	94	20
+Medicament28	100	20
+Medicament49	50	20
+Medicament41	16	20
+Medicament21	83	20
+Medicament56	47	20
+Medicament10	39	20
+Medicament47	84	20
+Medicament13	3	20
+Medicament20	66	20
+Medicament26	54	20
+Medicament1	77	20
+Medicament37	3	20
+Medicament32	35	20
+Medicament52	46	20
+Medicament15	79	20
+Medicament9	82	20
+Medicament53	82	20
+Medicament12	90	20
+Medicament7	74	20
+Medicament48	98	20
+Medicament1	20	20
+Medicament26	41	20
+Medicament32	37	20
+Medicament2	65	20
+Medicament50	41	20
+Medicament18	68	20
+Medicament34	73	20
+Medicament47	2	20
+Medicament34	72	20
+Medicament14	12	20
+Medicament20	61	20
+Medicament53	75	20
+Medicament4	7	20
+Medicament58	41	20
+Medicament36	33	20
+Medicament48	42	20
+Medicament37	41	20
+Medicament15	11	20
+Medicament10	84	20
+Medicament21	35	20
+Medicament36	70	20
+Medicament28	66	20
+Medicament37	80	20
+Medicament30	41	20
+Medicament38	2	20
+Medicament44	64	20
+Medicament31	75	20
+Medicament28	78	20
+Medicament54	39	20
+Medicament17	64	20
+;
+APPROV : 
+Medicament53	36	2010-02-17
+Medicament42	47	2022-10-09
+Medicament12	53	2014-05-15
+Medicament27	39	2015-08-12
+Medicament20	7	2018-09-26
+Medicament27	10	2004-09-07
+Medicament60	72	2006-11-12
+Medicament2	72	2023-01-05
+Medicament54	71	2021-12-29
+Medicament7	40	2015-12-21
+;
+DATE 2025-11-16;
+DATE 2023-03-06;
+APPROV : 
+Medicament36	63	2019-10-06
+Medicament32	53	2011-11-28
+Medicament42	55	2007-01-01
+Medicament27	40	2015-11-15
+Medicament2	54	2003-03-04
+Medicament34	18	2020-02-23
+Medicament5	67	2001-11-03
+Medicament45	18	2008-05-06
+Medicament6	11	2016-06-20
+Medicament28	53	2005-09-10
+Medicament33	72	2002-02-11
+Medicament25	14	2020-07-21
+Medicament39	51	2015-10-07
+Medicament41	24	2009-11-18
+Medicament48	20	2015-08-06
+Medicament2	25	2021-10-15
+Medicament33	56	2013-05-26
+Medicament59	61	2018-04-17
+Medicament20	1	2003-09-10
+Medicament25	48	2004-05-08
+Medicament54	68	2018-07-09
+Medicament7	24	2024-02-08
+Medicament48	54	2016-07-18
+Medicament41	5	2002-11-19
+;
+STOCK
+;
+DATE 2007-10-09;
+DATE 2020-12-03;
+PRESCRIPTION :
+Medicament55	72	20
+Medicament4	80	20
+Medicament7	72	20
+Medicament17	88	20
+Medicament43	61	20
+Medicament20	42	20
+Medicament1	95	20
+Medicament48	33	20
+Medicament20	77	20
+Medicament59	99	20
+Medicament2	21	20
+Medicament10	48	20
+Medicament33	8	20
+Medicament28	49	20
+Medicament40	84	20
+Medicament40	80	20
+Medicament43	80	20
+Medicament39	22	20
+Medicament16	62	20
+Medicament57	4	20
+Medicament54	49	20
+Medicament53	7	20
+Medicament36	99	20
+Medicament40	95	20
+Medicament40	6	20
+Medicament31	34	20
+Medicament22	87	20
+Medicament33	15	20
+Medicament55	3	20
+Medicament10	14	20
+Medicament35	78	20
+Medicament3	47	20
+Medicament7	86	20
+Medicament20	20	20
+Medicament57	42	20
+Medicament60	15	20
+Medicament29	24	20
+Medicament49	65	20
+Medicament24	89	20
+Medicament31	21	20
+Medicament48	43	20
+Medicament23	17	20
+Medicament8	5	20
+Medicament32	59	20
+Medicament24	19	20
+Medicament30	23	20
+Medicament32	9	20
+Medicament31	1	20
+Medicament37	71	20
+Medicament7	95	20
+Medicament8	27	20
+Medicament33	82	20
+Medicament12	35	20
+Medicament53	74	20
+Medicament56	77	20
+Medicament29	59	20
+Medicament54	25	20
+Medicament23	22	20
+Medicament47	42	20
+Medicament40	33	20
+Medicament14	21	20
+Medicament47	56	20
+Medicament17	27	20
+Medicament41	81	20
+Medicament6	62	20
+Medicament5	35	20
+Medicament28	8	20
+Medicament2	31	20
+Medicament7	5	20
+Medicament12	16	20
+Medicament17	34	20
+Medicament44	81	20
+Medicament4	59	20
+Medicament55	85	20
+Medicament24	93	20
+Medicament14	75	20
+;
+STOCK
+;
+APPROV : 
+Medicament52	62	2005-09-15
+Medicament45	32	2023-12-04
+Medicament36	60	2025-06-04
+Medicament59	28	2000-01-21
+Medicament60	42	2019-03-15
+Medicament2	55	2022-05-19
+Medicament10	36	2015-01-01
+Medicament56	31	2014-06-22
+Medicament8	71	2020-01-06
+Medicament31	26	2011-04-05
+Medicament53	42	2010-07-06
+Medicament56	56	2001-05-13
+Medicament47	55	2017-09-23
+Medicament47	34	2021-07-05
+Medicament14	51	2010-07-30
+Medicament36	40	2018-06-09
+Medicament57	43	2025-05-20
+Medicament48	37	2012-08-16
+Medicament40	39	2002-08-18
+Medicament29	28	2010-05-25
+Medicament28	38	2009-04-25
+;
+STOCK
+;
+PRESCRIPTION :
+Medicament11	81	24
+Medicament1	87	24
+Medicament32	30	24
+Medicament59	38	24
+Medicament3	79	24
+Medicament59	23	24
+Medicament4	60	24
+Medicament51	11	24
+Medicament58	90	24
+Medicament2	71	24
+Medicament53	28	24
+Medicament51	5	24
+Medicament38	34	24
+Medicament36	62	24
+Medicament50	63	24
+Medicament10	68	24
+Medicament24	38	24
+Medicament59	80	24
+Medicament30	81	24
+Medicament21	55	24
+;
+DATE 2009-01-01;
+STOCK
+;
+STOCK
+;
+APPROV : 
+Medicament2	48	2009-12-26
+Medicament49	70	2006-06-16
+Medicament23	58	2016-10-31
+Medicament4	2	2002-11-06
+Medicament12	40	2024-06-23
+Medicament2	51	2014-06-29
+Medicament7	13	2003-10-18
+Medicament35	8	2024-01-10
+Medicament34	39	2011-10-10
+Medicament34	43	2013-03-06
+Medicament23	7	2023-02-18
+Medicament8	65	2015-11-21
+Medicament20	3	2014-04-01
+Medicament11	48	2005-02-04
+Medicament55	53	2003-07-26
+Medicament14	45	2007-01-16
+Medicament26	32	2010-02-08
+;
+STOCK
+;
+DATE 2004-04-05;
+PRESCRIPTION :
+Medicament20	41	10
+Medicament31	52	10
+Medicament60	58	10
+Medicament47	90	10
+Medicament38	87	10
+Medicament31	49	10
+Medicament15	43	10
+Medicament27	92	10
+Medicament31	9	10
+Medicament11	3	10
+Medicament25	39	10
+Medicament3	28	10
+Medicament25	22	10
+Medicament28	74	10
+Medicament45	8	10
+Medicament8	62	10
+Medicament52	61	10
+Medicament58	59	10
+Medicament54	84	10
+Medicament37	62	10
+Medicament53	32	10
+Medicament39	22	10
+Medicament40	57	10
+Medicament57	39	10
+Medicament15	99	10
+Medicament6	78	10
+Medicament22	86	10
+Medicament29	5	10
+Medicament19	79	10
+Medicament29	99	10
+Medicament55	28	10
+Medicament57	98	10
+Medicament37	28	10
+Medicament17	47	10
+Medicament24	21	10
+Medicament24	100	10
+Medicament6	73	10
+Medicament39	89	10
+Medicament1	95	10
+Medicament50	84	10
+Medicament9	75	10
+Medicament46	10	10
+Medicament13	83	10
+Medicament11	68	10
+Medicament44	69	10
+Medicament37	76	10
+Medicament44	83	10
+Medicament19	53	10
+Medicament46	57	10
+Medicament39	22	10
+Medicament44	53	10
+Medicament29	69	10
+Medicament49	69	10
+Medicament38	53	10
+Medicament3	62	10
+Medicament13	42	10
+Medicament51	51	10
+Medicament55	85	10
+Medicament29	4	10
+Medicament44	17	10
+Medicament10	33	10
+Medicament50	96	10
+Medicament56	43	10
+Medicament29	36	10
+Medicament45	9	10
+Medicament48	97	10
+Medicament28	77	10
+Medicament40	99	10
+Medicament6	13	10
+Medicament18	26	10
+Medicament1	13	10
+Medicament28	38	10
+Medicament19	72	10
+Medicament9	42	10
+Medicament42	3	10
+Medicament53	85	10
+Medicament23	35	10
+Medicament18	83	10
+Medicament13	70	10
+Medicament8	90	10
+Medicament56	32	10
+Medicament56	28	10
+Medicament32	36	10
+Medicament32	94	10
+Medicament32	38	10
+Medicament43	51	10
+Medicament47	41	10
+;
+APPROV : 
+Medicament19	28	2004-01-11
+Medicament28	56	2007-03-15
+Medicament38	51	2020-09-27
+Medicament50	69	2011-07-18
+Medicament1	49	2023-08-15
+Medicament48	52	2010-07-03
+Medicament40	6	2025-07-14
+Medicament30	29	2009-03-26
+Medicament21	73	2022-11-11
+Medicament6	37	2019-02-05
+Medicament4	2	2024-09-19
+Medicament36	21	2003-11-21
+Medicament17	33	2002-03-20
+Medicament20	67	2000-05-03
+Medicament47	56	2016-03-04
+Medicament54	9	2022-12-23
+;
+DATE 2007-02-22;
+DATE 2018-07-19;
+DATE 2004-07-04;
+APPROV : 
+Medicament16	30	2010-11-22
+Medicament58	30	2020-07-21
+Medicament54	67	2014-08-08
+Medicament35	61	2001-09-03
+Medicament54	57	2023-05-05
+Medicament60	63	2007-03-11
+Medicament53	49	2023-03-13
+Medicament32	69	2004-07-23
+Medicament20	37	2022-04-22
+Medicament30	25	2009-09-29
+Medicament35	44	2001-01-02
+Medicament21	36	2021-08-16
+Medicament45	31	2024-09-17
+Medicament17	66	2021-03-25
+Medicament53	55	2014-10-22
+Medicament35	22	2016-08-09
+Medicament48	64	2000-05-09
+;
+APPROV : 
+Medicament52	40	2012-04-28
+Medicament19	70	2025-02-02
+Medicament33	31	2007-10-10
+Medicament34	37	2008-03-21
+Medicament40	14	2020-01-12
+Medicament25	15	2017-11-12
+Medicament41	62	2025-10-15
+Medicament29	66	2009-10-16
+;
+APPROV : 
+Medicament39	61	2003-04-08
+Medicament40	66	2014-03-25
+Medicament14	5	2011-01-08
+Medicament51	45	2001-08-07
+Medicament21	30	2022-07-27
+Medicament6	4	2018-02-01
+Medicament51	8	2011-02-07
+Medicament42	63	2014-11-18
+Medicament38	68	2005-12-29
+Medicament46	47	2001-02-10
+Medicament59	7	2002-03-08
+Medicament45	44	2022-10-03
+Medicament39	62	2002-05-27
+Medicament52	45	2007-12-25
+Medicament11	27	2012-09-25
+Medicament4	22	2004-07-30
+Medicament6	40	2025-08-26
+Medicament59	8	2013-07-21
+Medicament35	69	2009-11-01
+Medicament24	61	2015-11-14
+Medicament27	24	2003-02-20
+;
+APPROV : 
+Medicament22	16	2009-07-30
+Medicament59	60	2008-05-18
+Medicament35	75	2000-04-23
+Medicament33	54	2022-08-23
+Medicament23	23	2022-07-03
+Medicament32	35	2023-12-02
+Medicament60	64	2022-08-20
+Medicament36	37	2021-06-23
+Medicament56	16	2000-10-26
+Medicament60	58	2015-12-31
+Medicament57	63	2010-05-30
+Medicament53	51	2019-01-06
+Medicament18	40	2007-05-31
+Medicament55	37	2014-03-17
+Medicament52	8	2016-05-29
+Medicament57	72	2006-10-22
+Medicament24	12	2011-08-15
+Medicament7	42	2014-07-27
+Medicament11	24	2018-05-28
+Medicament7	68	2013-01-06
+;
+APPROV : 
+Medicament43	45	2021-06-01
+Medicament15	12	2014-07-21
+Medicament25	24	2025-01-04
+Medicament5	65	2011-06-29
+Medicament45	34	2007-01-19
+Medicament30	51	2021-12-22
+Medicament28	10	2009-02-08
+Medicament50	25	2018-05-17
+Medicament19	7	2018-01-17
+Medicament4	53	2014-02-03
+Medicament44	42	2022-09-09
+Medicament56	18	2018-03-04
+Medicament24	33	2001-03-06
+Medicament23	25	2012-08-06
+;
+APPROV : 
+Medicament24	59	2002-06-28
+Medicament6	25	2012-05-03
+Medicament49	13	2011-10-18
+Medicament54	41	2011-07-31
+Medicament39	67	2012-02-19
+Medicament18	63	2024-07-07
+Medicament13	34	2007-07-23
+Medicament60	11	2005-02-18
+Medicament11	26	2015-03-21
+Medicament23	5	2019-07-23
+Medicament34	71	2013-07-09
+Medicament49	10	2005-11-02
+Medicament49	8	2012-02-11
+Medicament49	20	2024-11-01
+Medicament37	71	2002-12-24
+Medicament53	46	2019-01-04
+Medicament17	59	2010-08-18
+Medicament17	73	2005-11-19
+Medicament8	36	2005-07-09
+Medicament45	29	2009-07-16
+Medicament59	65	2024-07-17
+;
+APPROV : 
+Medicament57	23	2005-11-28
+Medicament25	13	2005-10-31
+Medicament38	34	2004-01-13
+Medicament17	60	2004-11-04
+Medicament25	14	2021-03-29
+Medicament46	19	2021-08-03
+Medicament52	9	2012-12-09
+Medicament16	64	2008-03-22
+Medicament43	23	2017-05-03
+;
+PRESCRIPTION :
+Medicament2	11	18
+Medicament12	27	18
+Medicament13	30	18
+Medicament50	2	18
+Medicament4	23	18
+Medicament33	100	18
+Medicament43	57	18
+Medicament18	48	18
+Medicament51	17	18
+Medicament13	87	18
+Medicament5	95	18
+Medicament34	84	18
+Medicament22	38	18
+Medicament44	19	18
+Medicament4	71	18
+Medicament12	60	18
+Medicament3	43	18
+Medicament40	10	18
+Medicament10	46	18
+Medicament40	96	18
+Medicament49	29	18
+Medicament29	76	18
+Medicament10	39	18
+Medicament9	88	18
+Medicament12	48	18
+Medicament40	94	18
+Medicament39	67	18
+Medicament20	96	18
+Medicament19	54	18
+Medicament29	68	18
+Medicament5	16	18
+Medicament47	81	18
+Medicament40	15	18
+Medicament32	1	18
+Medicament22	47	18
+Medicament27	59	18
+Medicament22	56	18
+Medicament7	41	18
+Medicament46	92	18
+Medicament2	87	18
+Medicament21	25	18
+Medicament13	1	18
+Medicament6	70	18
+Medicament5	100	18
+Medicament37	4	18
+Medicament32	49	18
+Medicament24	17	18
+Medicament6	35	18
+Medicament27	37	18
+Medicament11	83	18
+Medicament5	46	18
+Medicament46	1	18
+Medicament34	78	18
+Medicament9	58	18
+Medicament53	87	18
+Medicament52	41	18
+Medicament51	75	18
+Medicament48	7	18
+Medicament15	57	18
+Medicament36	16	18
+Medicament5	80	18
+Medicament2	91	18
+Medicament30	19	18
+Medicament8	78	18
+Medicament1	51	18
+Medicament23	48	18
+Medicament16	54	18
+Medicament58	36	18
+Medicament7	85	18
+Medicament56	87	18
+Medicament38	33	18
+Medicament19	77	18
+Medicament22	90	18
+Medicament45	33	18
+Medicament5	20	18
+Medicament13	95	18
+Medicament11	87	18
+Medicament20	56	18
+Medicament10	6	18
+Medicament22	38	18
+Medicament46	48	18
+Medicament23	61	18
+Medicament26	76	18
+Medicament14	17	18
+Medicament11	96	18
+Medicament17	21	18
+Medicament10	82	18
+Medicament24	53	18
+;
+DATE 2011-01-08;
+;
+STOCK
+;
+PRESCRIPTION :
+Medicament35	27	13
+Medicament43	28	13
+Medicament4	52	13
+Medicament38	83	13
+Medicament30	86	13
+Medicament33	19	13
+Medicament1	71	13
+Medicament36	3	13
+Medicament20	31	13
+Medicament59	2	13
+Medicament7	55	13
+Medicament37	63	13
+Medicament8	62	13
+Medicament11	50	13
+Medicament7	100	13
+Medicament16	16	13
+Medicament3	48	13
+Medicament26	91	13
+Medicament30	60	13
+Medicament10	28	13
+Medicament8	36	13
+Medicament48	83	13
+Medicament21	44	13
+Medicament50	76	13
+Medicament17	99	13
+Medicament27	37	13
+;
+STOCK
+;
+APPROV : 
+Medicament23	35	2011-08-30
+Medicament46	10	2015-03-19
+Medicament30	56	2022-04-19
+Medicament10	46	2024-09-21
+Medicament54	3	2004-06-06
+Medicament15	32	2023-11-05
+Medicament6	5	2002-01-07
+Medicament12	24	2017-09-16
+Medicament42	33	2005-08-07
+Medicament54	63	2011-11-07
+Medicament25	46	2012-05-25
+;
+APPROV : 
+Medicament9	3	2002-10-06
+Medicament41	57	2003-01-25
+Medicament33	36	2014-05-20
+Medicament15	60	2016-02-17
+Medicament4	16	2008-02-29
+Medicament54	28	2023-09-18
+Medicament18	65	2000-10-11
+Medicament37	71	2013-04-10
+Medicament14	41	2018-12-15
+Medicament31	51	2007-10-14
+Medicament33	56	2002-06-28
+Medicament6	5	2015-02-07
+Medicament49	64	2003-07-07
+Medicament27	33	2012-05-12
+;
+;
+APPROV : 
+Medicament44	17	2000-12-05
+Medicament57	68	2020-10-25
+Medicament33	16	2019-06-16
+Medicament47	66	2008-06-19
+Medicament22	60	2004-08-11
+Medicament25	55	2005-04-30
+Medicament29	40	2009-06-16
+Medicament46	69	2004-03-08
+Medicament15	7	2011-03-22
+Medicament14	46	2009-05-29
+Medicament32	50	2016-01-15
+Medicament15	46	2004-02-09
+Medicament46	43	2015-07-31
+Medicament40	75	2001-09-11
+;
+PRESCRIPTION :
+Medicament52	31	35
+Medicament57	67	35
+Medicament4	93	35
+Medicament7	15	35
+Medicament47	82	35
+Medicament58	3	35
+Medicament55	86	35
+Medicament52	66	35
+Medicament15	28	35
+Medicament48	89	35
+Medicament13	2	35
+Medicament28	30	35
+Medicament46	8	35
+Medicament38	63	35
+Medicament2	34	35
+Medicament57	100	35
+Medicament49	21	35
+Medicament8	51	35
+Medicament17	46	35
+Medicament55	36	35
+Medicament25	66	35
+;
+APPROV : 
+Medicament53	70	2016-10-26
+Medicament60	61	2003-05-22
+Medicament36	29	2011-10-25
+Medicament1	26	2023-03-18
+Medicament6	28	2003-05-09
+Medicament48	53	2009-02-06
+Medicament33	67	2002-01-27
+Medicament4	7	2020-03-27
+;
+APPROV : 
+Medicament17	26	2021-05-21
+Medicament15	30	2017-09-28
+Medicament44	42	2003-03-10
+Medicament20	8	2023-03-31
+Medicament9	50	2004-04-04
+Medicament19	10	2024-12-29
+Medicament5	30	2009-03-11
+Medicament29	63	2019-07-14
+Medicament38	67	2017-04-15
+Medicament23	26	2025-06-24
+Medicament41	53	2006-05-27
+Medicament1	63	2020-03-09
+Medicament17	29	2003-07-30
+Medicament47	61	2013-03-28
+Medicament27	62	2000-02-11
+Medicament46	65	2021-12-23
+Medicament17	64	2017-10-09
+Medicament3	56	2012-11-18
+Medicament5	25	2019-11-22
+Medicament41	56	2016-11-17
+Medicament22	27	2014-07-27
+Medicament39	14	2021-12-28
+Medicament11	27	2004-05-02
+Medicament49	22	2000-07-03
+;
+;
+STOCK
+;
+;
+STOCK
+;
+;
+APPROV : 
+Medicament16	49	2025-08-18
+Medicament22	68	2024-04-16
+Medicament56	48	2017-08-13
+Medicament15	6	2018-12-18
+Medicament10	10	2010-08-28
+Medicament38	9	2018-10-16
+Medicament35	22	2012-09-08
+Medicament18	50	2008-04-15
+Medicament52	73	2010-06-01
+Medicament17	72	2015-05-12
+Medicament59	8	2011-12-30
+Medicament43	60	2019-08-16
+Medicament54	45	2003-04-09
+Medicament35	5	2015-03-14
+Medicament42	36	2003-07-09
+;
+STOCK
+;
+PRESCRIPTION :
+Medicament26	34	50
+Medicament7	38	50
+Medicament21	23	50
+Medicament27	21	50
+Medicament34	1	50
+Medicament41	83	50
+Medicament47	82	50
+Medicament25	23	50
+Medicament53	43	50
+Medicament57	71	50
+Medicament23	66	50
+Medicament13	54	50
+Medicament37	4	50
+Medicament29	46	50
+Medicament12	9	50
+Medicament54	82	50
+Medicament49	92	50
+Medicament57	42	50
+Medicament51	100	50
+Medicament25	59	50
+Medicament3	61	50
+Medicament20	43	50
+Medicament7	54	50
+Medicament22	59	50
+Medicament39	7	50
+Medicament50	11	50
+Medicament28	58	50
+Medicament1	19	50
+Medicament46	66	50
+Medicament28	2	50
+Medicament30	36	50
+Medicament38	69	50
+Medicament29	28	50
+Medicament41	51	50
+Medicament36	24	50
+Medicament35	80	50
+Medicament9	32	50
+Medicament53	13	50
+Medicament35	84	50
+Medicament59	45	50
+Medicament19	11	50
+Medicament57	98	50
+Medicament35	6	50
+Medicament47	8	50
+;
+PRESCRIPTION :
+Medicament55	86	2
+Medicament4	62	2
+Medicament52	99	2
+Medicament5	62	2
+Medicament17	86	2
+Medicament54	93	2
+Medicament34	58	2
+Medicament14	69	2
+Medicament1	80	2
+Medicament27	13	2
+Medicament47	38	2
+Medicament23	45	2
+Medicament16	63	2
+Medicament55	10	2
+Medicament48	97	2
+Medicament23	45	2
+Medicament60	53	2
+Medicament9	68	2
+Medicament57	89	2
+Medicament37	64	2
+Medicament33	23	2
+Medicament46	72	2
+Medicament6	29	2
+Medicament11	11	2
+Medicament16	10	2
+Medicament44	4	2
+Medicament51	85	2
+Medicament60	11	2
+Medicament30	54	2
+Medicament16	28	2
+Medicament25	58	2
+Medicament49	5	2
+Medicament57	23	2
+Medicament4	57	2
+Medicament2	61	2
+Medicament3	8	2
+Medicament50	47	2
+Medicament5	62	2
+Medicament52	35	2
+Medicament15	19	2
+Medicament8	13	2
+Medicament6	52	2
+Medicament18	87	2
+Medicament16	98	2
+Medicament59	54	2
+Medicament38	59	2
+Medicament1	60	2
+Medicament12	14	2
+Medicament2	35	2
+Medicament53	21	2
+Medicament52	26	2
+Medicament59	90	2
+Medicament40	75	2
+Medicament35	99	2
+Medicament20	38	2
+Medicament54	70	2
+Medicament12	44	2
+Medicament27	21	2
+Medicament59	96	2
+Medicament4	75	2
+Medicament16	11	2
+Medicament41	21	2
+Medicament17	90	2
+Medicament8	8	2
+Medicament24	87	2
+Medicament39	96	2
+Medicament6	96	2
+Medicament33	8	2
+Medicament55	43	2
+Medicament27	5	2
+Medicament17	67	2
+Medicament20	99	2
+Medicament25	96	2
+Medicament27	87	2
+Medicament48	44	2
+Medicament53	92	2
+Medicament31	34	2
+Medicament15	92	2
+Medicament13	80	2
+Medicament53	74	2
+Medicament46	28	2
+Medicament23	30	2
+;
+APPROV : 
+Medicament5	61	2023-09-12
+Medicament39	51	2024-03-17
+Medicament25	37	2011-10-06
+Medicament35	1	2000-11-20
+Medicament43	51	2017-09-22
+Medicament12	59	2006-08-04
+Medicament38	18	2024-03-17
+Medicament13	27	2012-12-01
+Medicament59	22	2025-02-06
+Medicament29	56	2007-05-06
+Medicament26	61	2014-09-21
+Medicament22	58	2018-05-07
+Medicament35	32	2007-06-02
+Medicament13	73	2011-01-19
+Medicament11	75	2015-10-10
+Medicament50	60	2019-12-08
+Medicament17	44	2004-05-14
+Medicament10	12	2003-03-13
+Medicament8	59	2024-12-05
+Medicament47	22	2025-03-29
+Medicament47	52	2007-03-27
+Medicament9	24	2023-04-26
+Medicament10	57	2008-05-24
+;
+STOCK
+;
+;
+APPROV : 
+Medicament17	46	2014-08-18
+Medicament41	4	2014-10-27
+Medicament8	7	2023-02-11
+Medicament50	7	2007-02-07
+Medicament9	8	2023-09-07
+Medicament18	2	2015-10-02
+Medicament46	61	2007-10-27
+Medicament12	5	2007-12-01
+;
+APPROV : 
+Medicament7	29	2001-08-01
+Medicament1	70	2022-05-02
+Medicament56	69	2005-05-04
+Medicament52	70	2018-10-26
+Medicament57	22	2021-01-23
+Medicament35	20	2003-04-10
+Medicament20	34	2002-10-26
+Medicament19	4	2013-03-17
+Medicament58	57	2020-10-27
+Medicament43	53	2019-05-24
+Medicament43	23	2004-03-09
+Medicament34	7	2008-07-19
+Medicament43	22	2007-06-09
+Medicament38	20	2006-03-31
+;
+STOCK
+;
+STOCK
+;
+STOCK
+;
+;
+;
+APPROV : 
+Medicament34	61	2008-05-02
+Medicament49	49	2024-11-18
+Medicament45	33	2010-07-30
+Medicament35	6	2013-04-10
+Medicament35	50	2012-06-08
+Medicament43	45	2005-01-31
+Medicament59	72	2012-08-07
+Medicament21	60	2021-05-19
+Medicament40	22	2000-05-24
+Medicament20	10	2002-08-10
+Medicament6	22	2013-11-15
+Medicament55	62	2003-12-02
+Medicament25	5	2013-04-10
+Medicament43	31	2010-03-26
+Medicament34	55	2011-08-25
+;
+STOCK
+;
+;
+STOCK
+;
+STOCK
+;
+STOCK
+;
+APPROV : 
+Medicament43	2	2019-05-19
+Medicament38	48	2007-12-23
+Medicament1	74	2020-08-10
+Medicament34	75	2012-12-09
+Medicament51	19	2000-08-21
+Medicament47	70	2005-02-16
+Medicament13	31	2009-02-12
+Medicament40	25	2001-01-20
+Medicament37	44	2017-11-03
+Medicament18	59	2009-12-02
+;
+;
+STOCK
+;
+STOCK
+;
+APPROV : 
+Medicament3	13	2003-12-17
+Medicament8	55	2002-03-31
+Medicament30	3	2023-03-20
+Medicament14	10	2000-12-17
+Medicament23	62	2024-06-01
+Medicament25	67	2002-08-28
+Medicament21	44	2014-02-26
+Medicament41	40	2007-07-10
+Medicament15	44	2000-05-28
+Medicament39	43	2016-10-24
+Medicament42	23	2004-04-09
+Medicament18	55	2011-01-24
+Medicament52	57	2003-12-15
+Medicament4	69	2015-12-29
+Medicament19	48	2013-08-21
+;
+STOCK
+;
+;
+;
+;
+;
+STOCK
+;
+;
+;
+;
+;
+;

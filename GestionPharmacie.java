@@ -44,39 +44,51 @@ public class GestionPharmacie {
     }
 
   }
-  public static void readTheThing() {
+  public static long readTheThing(String read, String write) {
     BufferedReader reader;
     boolean first = true;
 
     try {
-      reader = new BufferedReader(new FileReader("src/test.txt"));
+       long time=0;
+       long startTime = 0;
+      reader = new BufferedReader(new FileReader(read));
       String line = reader.readLine();
       String instruction = "";
       ArrayList<String> commande = new ArrayList<String>();
       int i = 1;
-      BufferedWriter writer = new BufferedWriter(new FileWriter("src/test+.txt"));
+      BufferedWriter writer = new BufferedWriter(new FileWriter(write));
 
       while (line != null) {
 
         if (line.equals(";")&& instruction.equals("PRESCRIPTION")){
           writer.write("\n");
-        }
+//            long endTime = System.currentTimeMillis();
+//            time=time + (endTime - startTime);
+        }if (line.equals(";")&& instruction.equals("APPROV")){
+             // writer.write("\n");
+             // long endTime = System.currentTimeMillis();
+            //  time=time + (endTime - startTime);
+          }
 
         if (line.equals(";")){
           line = reader.readLine();
           continue;
         }
         else if (line.contains("APPROV")) {
+          //  startTime = System.currentTimeMillis();
           instruction = "APPROV";
           line = reader.readLine();
         }
         else if (line.contains("PRESCRIPTION")) {
+        //  startTime = System.currentTimeMillis();
           instruction = "PRESCRIPTION";
           writer.write("PRESCRIPTION " + i + "\n");
           i = i+1;
           line = reader.readLine();
+
         }
         else if (line.contains("DATE")) {
+            startTime = System.currentTimeMillis();
           String dateLine = line.replace("DATE ","");
 
           dateLine = dateLine.replace(";", "");
@@ -105,12 +117,13 @@ public class GestionPharmacie {
           }
           line = reader.readLine();
           instruction = "DATE";
+
         }
         else if (line.contains("STOCK")) {
           instruction = "STOCK";
         }
         if (instruction == "APPROV") {
-
+           // long startTime = System.currentTimeMillis();
           stringToMed(line);
           // check if always OK and if is unnecessary
           line = reader.readLine();
@@ -120,12 +133,15 @@ public class GestionPharmacie {
 
         }
         else if (instruction == "PRESCRIPTION") {
-          String output = methodPrescription(line,getCurrentDate());
-          if (output.contains("COMMANDE")){
-            commande.add(output);
-          }
-          writer.write(output + "\n");
-          line = reader.readLine();
+            if (line.length()>0) {
+                String output = methodPrescription(line, getCurrentDate());
+
+                if (output.contains("COMMANDE")) {
+                    commande.add(output);
+                }
+                writer.write(output + "\n");
+                line = reader.readLine();
+            }
         }
         else if (instruction == "STOCK") {
 
@@ -138,15 +154,19 @@ public class GestionPharmacie {
           line = reader.readLine();
         }
         else if (instruction == "DATE"){
+            long endTime = System.currentTimeMillis();
+            time=time + (endTime - startTime);
           continue;
         }
       }
       writer.close();
       reader.close();
-
+      BST.removeAllExpired(LocalDate.of(2025,12,12));
+        return time;
     } catch (IOException e) {
       e.printStackTrace();
     }
+    return 0;
   }
 
  /* public  static String methodCommande(String line,ArrayList<String> commande) {
@@ -165,41 +185,45 @@ public class GestionPharmacie {
     return newString ;
   }*/
 
-  public  static String methodPrescription(String line, LocalDate date){
+  public  static String methodPrescription(String line, LocalDate date) {
 // TODO; change to \t
-    String[] parts = line.split("\\s+");
 
 
-    for (int i = 0; i < parts.length; i++) {
-      parts[i] = parts[i].trim();
-    }
-
-    int num1 = Integer.parseInt(parts[1]);
-    int num2 = Integer.parseInt(parts[2]);
-    String med = parts[0];
-
-    int total = num1*num2;
-    BST.outputStock();
-    Medicament foundMed = BST.findClosest(med,date);
-
-    String outputstring="";
-
-    if (foundMed != null && ((foundMed.getStock()<total))){
-      outputstring=(med + "\t" + num1 + "\t"+ num2 +"\t"+ "COMMANDE");
-    } else if (foundMed !=null && foundMed.getStock()>=total){
-
-      BST.removeMed(foundMed);
-
-      foundMed.setStock(foundMed.getStock()-total);
-
-      BST.addMed(foundMed);
-      outputstring=(med + "\t" + num1 + "\t"+ num2 +"\t"+ "OK");
-    }else if (foundMed ==null){
-      outputstring=(med + "\t" + num1 + "\t"+ num2 +"\t"+ "COMMANDE");
-    }
+      String outputstring = null;
+      if (line!=null && line.length()>0) {
+          String[] parts = line.split("\\s+");
 
 
-    return outputstring;
+          for (int i = 0; i < parts.length; i++) {
+              parts[i] = parts[i].trim();
+          }
+
+          int num1 = Integer.parseInt(parts[1]);
+          int num2 = Integer.parseInt(parts[2]);
+          String med = parts[0];
+
+          int total = num1 * num2;
+          BST.outputStock();
+          Medicament foundMed = BST.findClosest(med, date);
+
+          outputstring = "";
+
+          if (foundMed != null && ((foundMed.getStock() < total))) {
+              outputstring = (med + "\t" + num1 + "\t" + num2 + "\t" + "COMMANDE");
+          } else if (foundMed != null && foundMed.getStock() >= total) {
+
+              BST.removeMed(foundMed);
+
+              foundMed.setStock(foundMed.getStock() - total);
+
+              BST.addMed(foundMed);
+              outputstring = (med + "\t" + num1 + "\t" + num2 + "\t" + "OK");
+          } else if (foundMed == null) {
+              outputstring = (med + "\t" + num1 + "\t" + num2 + "\t" + "COMMANDE");
+          }
+
+      }
+      return outputstring;
 
   }
 
@@ -209,28 +233,31 @@ ArrayList <Double> arra1 = new ArrayList<>();
     ArrayList <Double> arra2 = new ArrayList<>();
     int i=0;
 
-    for (i=0; i<6000; i++){
+    for (i=1; i<=40000; i++){
       ManipulationFichier m1 = new ManipulationFichier();
+      //String read= "tests/exemple" + i +".txt";
+       // String write= "tests/exemple" + i +"++.txt";
+        String read= "test.txt";
+        String write= "test+.txt";
      int num= m1.maindo(i,null);
 
-     if (i % 100 ==0){
-       System.out.println(i);
-     }
-     
-    long startTime = System.currentTimeMillis();
 
-    readTheThing();
+        long startTime = System.currentTimeMillis();
 
-    long endTime = System.currentTimeMillis();
+    long time = readTheThing(read, write);
 
-    arra1.add(Double.valueOf((endTime - startTime)));
+    if (i %2==0) {
+        System.out.println(i);
+    }
+        long endTime = System.currentTimeMillis();
+    arra1.add(Double.valueOf(endTime-startTime));
 
     arra2.add(Double.valueOf(num));
 
   }
   Chart gd = new Chart();
     Collections.sort(arra2);
-        gd.draw(arra1, arra2);
+        gd.draw(arra2, arra1);
     // Lire le fichier (donnees en fichier en désordre; chercher les keywords)
     // Entrer les donnees dans les structures
     //          creer des objets Medicament, puis les rajouter à Stock. quand ya APPROV.

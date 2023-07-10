@@ -1,3 +1,5 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDate;
@@ -19,15 +21,15 @@ public class ManipulationFichier {
             "Medicament56", "Medicament57", "Medicament58", "Medicament59", "Medicament60"
     };
 
-    private static final int MAX_STOCK = 15000;
+    private static final int MAX_STOCK = 75;
    // public static val =0;
-    private static final int MAX_PRESCRIPTION_QUANTITY = 10000;
+    private static final int MAX_PRESCRIPTION_QUANTITY = 100;
    // private static final int INPUT_SIZE = 30; // Specify the desired input size here
 
     private static final Random random = new Random();
 
     public static int maindo(int num,String[] args) {
-        String fileName = "src/test.txt"; // Specify the output file name here
+        String fileName = "test.txt"; // Specify the output file name here
         int num1=0;
         try (FileWriter writer = new FileWriter(fileName)) {
             num1 = generateFileContent(num,writer);
@@ -50,13 +52,14 @@ return num1;
             String command = generateRandomCommand();
             //writer.write(command + " :\n");
 
-            if (command.equals("APPROV") && count>0) {
-                count=count-1;
+            if (command.equals("APPROV")) {
+
                 writer.write("APPROV : \n");
-                generateMedicamentData(writer);
-            } else if (command.equals("PRESCRIPTION")) {
+                num=num+generateMedicamentData(writer);
+            } else if (command.equals("PRESCRIPTION")  && count>0) {
+                count=count-1;
                 writer.write("PRESCRIPTION :\n");
-               num=num+generatePrescriptionData(writer);
+               generatePrescriptionData(writer);
             }else if(command.equals("STOCK")){
                 writer.write("STOCK\n");
             }else if(command.equals("DATE")&& count2>0){
@@ -69,8 +72,8 @@ return num1;
         return num;
     }
 
-    public static void generateMedicamentData(FileWriter writer) throws IOException {
-        int numMedicaments = random.nextInt(100) + 5;
+    public static int generateMedicamentData(FileWriter writer) throws IOException {
+        int numMedicaments = random.nextInt(20) + 5;
 
         for (int i = 0; i < numMedicaments; i++) {
             String medicament = getRandomMedicament();
@@ -79,18 +82,19 @@ return num1;
 
             writer.write(medicament + "\t" + stock + "\t" + date + "\n");
         }
+        return numMedicaments;
     }
 
-    public static int generatePrescriptionData(FileWriter writer) throws IOException {
-        int numPrescriptions = random.nextInt(1000) + 1; // Generate between 1 to 50 prescriptions
-int rep=random.nextInt(50) + 1;
+    public static void generatePrescriptionData(FileWriter writer) throws IOException {
+        int numPrescriptions = random.nextInt(100) + 1; // Generate between 1 to 50 prescriptions
+        int rep=random.nextInt(50) + 1;
         for (int i = 0; i < numPrescriptions; i++) {
             String medicament = getRandomMedicament();
             int quantity = random.nextInt(MAX_PRESCRIPTION_QUANTITY) + 1;
 
             writer.write(medicament + "\t" + quantity + "\t" + rep + "\n");
         }
-return numPrescriptions;
+
     }
 
     public static String getRandomMedicament() {
@@ -112,5 +116,30 @@ return numPrescriptions;
     public static String generateRandomCommand() {
         String[] commands = {"PRESCRIPTION", "APPROV", "STOCK", "DATE"};
         return commands[random.nextInt(commands.length)];
+    }
+
+    public static int maindemo(int i, String filePath){
+        int prescriptionCount = 0;
+
+        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            boolean counting = false;
+
+            while ((line = reader.readLine()) != null) {
+                line = line.trim();
+
+                if (line.equals("PRESCRIPTION :")) {
+                    counting = true;
+                } else if (line.startsWith(";")) {
+                    counting = false;
+                } else if (counting) {
+                    prescriptionCount++;
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return prescriptionCount;
     }
 }
